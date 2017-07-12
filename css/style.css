@@ -1,0 +1,139 @@
+/* Sitewide styles */
+body {
+  padding-top: 64px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+section {
+  padding-bottom: 60px;
+}
+footer {
+  margin: 2em 0;
+}
+footer p {
+  font-size: 14px;
+}
+footer li {
+  float: right;
+  margin-right: 1.5em;
+  margin-bottom: 1.5em;
+}
+.lead {
+  font-size: 24px;
+}
+#navbar {
+  font-size: 14px;
+}
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+.cushion-top {
+  padding-top: 45px;
+}
+.cushion-bottom {
+  padding-bottom: 50px;
+}
+.horizontal-icons li {
+  display: inline;
+  margin-right: 10px;
+}
+/* Home page cover */
+.bg-img {
+  width: 100%;
+  height: 100%;
+  background: url('/images/tower-bridge.jpg') center center no-repeat;
+  background-size: cover;
+}
+.jumbotron-wrapper {
+  position: relative;
+  margin: 0 auto;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+  max-width: 2560px;
+  z-index: 0;
+}
+.jumbotron h1, .jumbotron .h1 {
+  color: #fff;
+  font-weight: semi-bold;
+  font-family: Roboto, sans-serif;
+}
+
+.image-shadow {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+/* CodeAcross landing page */
+.banner {
+  width: 100%;
+  padding-bottom: 30px;
+}
+.codeacross p, .codeacross .p {
+  font-size: 22px;
+}
+.heart {
+  color: red;
+}
+.cushion {
+  padding: 15px;
+}
+.lower {
+  margin-top: 20px;
+}
+
+/* Projects */
+.contributors img {
+  width: 50px;
+}
+.contributor-owner img {
+  border: 1px solid darkgray;
+}
+.issues {
+  list-style-type: none;
+  padding: 0 10px;
+}
+.issues li a {
+  text-decoration: none;
+}
+.issue {
+  text-align: center;
+  border: 1px solid #e5e5e5;
+  border-radius: .33em;
+  margin-bottom: 10px;
+  box-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+.issue:hover {
+  border: 1px solid #9c9c9c;
+}
+.issue-label {
+  display: inline-block;
+  color: #444444;
+  text-align: center;
+  border-radius: .33em;
+  margin: 5px;
+  padding: 0 10px;
+  font-size: 0.85em;
+}
+
+.form-control {
+  color: #fff;
+  text-shadow: 2px 2px 2px #000;
+}
+label.error {
+  text-align: left;
+}
+
+#main-description, #io-cupid {
+  background-color: #f1f1f1;
+  padding-top: 45px;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+}
+
+/* job section styles */
+section#job {
+  padding-bottom: 5px
+}

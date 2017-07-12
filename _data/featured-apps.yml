@@ -1,0 +1,12 @@
+- name: SavBook
+  description: Your one-stop mobile web app for community resources and social services,
+  image: openbudget.png
+  url: https://savbook.io
+- name: Track a CAT
+  description: Real-time CAT vehicle tracker.
+  image: sacsos.png
+  url: http://trackacat.org/
+- name:  Licenses Mapped
+  description: Learn about the business in Chatham County with valid liquor license.
+  image: pollingplaces.png
+  url: http://abustamam.github.io/polling-place-accessibility/
