@@ -128,7 +128,7 @@ button {
 }
 
 
-button.navbar-toggle.collapsed{
+.button.navbar-toggle.collapsed{
     background-color: #F3F3F3!important
 }
 
