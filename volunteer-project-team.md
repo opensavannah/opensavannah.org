@@ -1,6 +1,4 @@
 ---
-title: Volunteer to be the SavMaps.io Project Lead or a Project Coordinator
-author: Open Savannah
 layout: default
 permalink: /volunteer-project-leadership/
 ---
