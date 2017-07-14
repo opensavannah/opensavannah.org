@@ -1,18 +1,11 @@
 ---
-title: Workshops
+title: Volunteer to be the SavMaps.io Project Lead or a Project Coordinator
 author: Open Savannah
 layout: default
-permalink: /workshops/
+permalink: /volunteer-project-leadership/
 ---
 
-### Coming Soon: Open  Savannah's
-<h3><strong> OPEN DATA UNIVERSITY</strong></h3>
 
+<div data-paperform-id="projectlead-savmaps"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed"; document.body.appendChild(script); })()</script>
 
- <img src="http://cvlassets.s3.amazonaws.com/open-savannah-workshops.png" alt="Drawing" style="width: 350px;"/>
-
-
-This fall, Open Savannah will be offering free two-day workshops to residents who apply by Oct. 31, 2017.
-
-Check back soon for more information!
 
