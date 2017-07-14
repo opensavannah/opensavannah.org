@@ -6,7 +6,7 @@ permalink: /workshops/
 ---
 
 ### Coming Soon: Open  Savannah's
-<strong> OPEN DATA UNIVERSITY</strong>
+<h3><strong> OPEN DATA UNIVERSITY</strong></h3>
 
 
  <img src="http://cvlassets.s3.amazonaws.com/open-savannah-workshops.png" alt="Drawing" style="width: 350px;"/>
