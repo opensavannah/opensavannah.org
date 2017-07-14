@@ -199,6 +199,9 @@ td, th {
   padding: 0
 }
 
+button.navbar-toggle.collapsed{
+    background-color: #F3F3F3;
+}
 
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 
