@@ -124,12 +124,12 @@ button, input, optgroup, select, textarea {
 
 button {
   overflow: visible;
-  background-color: #F3F3F3!important
+  background-color: #9D9D9D!important
 }
 
 
 .button.navbar-toggle.collapsed{
-    background-color: #F3F3F3!important
+    background-color: #9D9D9D!important
 }
 
 button, select {
