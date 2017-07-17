@@ -4033,7 +4033,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
   padding: 9px 10px;
   margin-top: 15px;
   margin-bottom: 15px;
-  background-color: transparent;
+  background-color: #9D9D9D;
   background-image: none;
   border: 1px solid transparent;
   border-radius: 3px
@@ -7022,3 +7022,5 @@ select:focus, select.form-control:focus {
   -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3)
 }
+
+.button-navbar.toggle-collapsed
