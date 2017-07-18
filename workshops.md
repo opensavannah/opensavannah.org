@@ -2,7 +2,7 @@
 title: Workshops
 author: Open Savannah
 layout: default
-permalink: /workshops/
+permalink: /workshops
 ---
 
 ### Coming Soon: Open  Savannah's
