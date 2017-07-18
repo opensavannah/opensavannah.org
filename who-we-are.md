@@ -1,6 +1,6 @@
 ---
 title: Who We Are
-author: Code for Sacramento
+author: Open Savannah
 layout: default
 permalink: /who-we-are/
 ---
