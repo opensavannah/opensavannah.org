@@ -58,6 +58,7 @@ footer li {
   color: #fff;
   font-weight: bold;
   font-family: Roboto, sans-serif;
+  text-shadow: 2px 2px 2px #000;
 }
 
 .image-shadow {
