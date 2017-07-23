@@ -140,28 +140,3 @@ section#job {
 }
 
 
-#noty-holder{    
-    width: 100%;    
-    top: 0;
-    font-weight: bold;    
-    z-index: 1031; /* Max Z-Index in Fixed Nav Menu is 1030*/
-    text-align: center;
-    position: fixed;
-}
-
-.alert{
-    margin-bottom: 2px;
-    border-radius: 0px;
-}
-
-#main{
-    min-height:900px;
-}
-
-body {
-  padding-top: 50px;
-}
-.starter-template {
-  padding: 40px 15px;
-  text-align: center;
-}
