@@ -6,7 +6,7 @@
   description: Data visualization dashboard for City FY '17 Budget.
   image: openbudgetsav.png
   url: http://openbudgetsav.org/
-- name:  Open 311: Savannah
-  description: A prototype for 311 mobile issue reporting.
+- name: Open Issues Savannah
+  description: A prototype for civic mobile issue reporting.
   image: pollingplaces.png
-  url: http://abustamam.github.io/polling-place-accessibility/
+  url: https://dev-open311-savannah.pantheonsite.io/
