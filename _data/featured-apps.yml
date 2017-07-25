@@ -1,12 +1,12 @@
 - name: SavBook
   description: Your one-stop mobile web app for community resources and social services,
-  image: openbudget.png
+  image: savbook.png
   url: https://savbook.io
-- name: Track a CAT
-  description: Real-time CAT vehicle tracker.
-  image: sacsos.png
-  url: http://trackacat.org/
-- name:  Licenses Mapped
-  description: Learn about the business in Chatham County with valid liquor license.
+- name: Open Budget Savannah
+  description: Data visualization dashboard for City FY '17 Budget.
+  image: openbudgetsav.png
+  url: http://openbudgetsav.org/
+- name:  Open 311: Savannah
+  description: A prototype for 311 mobile issue reporting.
   image: pollingplaces.png
   url: http://abustamam.github.io/polling-place-accessibility/
