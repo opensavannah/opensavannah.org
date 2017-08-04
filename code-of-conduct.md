@@ -2,7 +2,7 @@
 title: Code of Conduct
 author: Open Savannah
 layout: default
-permalink: /who-we-are/
+permalink: /code-of-conduct/
 ---
 
 ## Code of Conduct
