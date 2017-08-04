@@ -5,7 +5,7 @@ layout: default
 permalink: /code-of-conduct/
 ---
 
-=============
+
 #### Savannah's Bridgade of Code for America
 Forked and modified from [CFA Code of Conduct](https://github.com/codeforamerica/codeofconduct)
 
