@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Code of Conduct
 author: Open Savannah
 layout: default
 permalink: /who-we-are/
