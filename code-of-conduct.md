@@ -1,6 +1,5 @@
 ---
 title: Code of Conduct
-author: Open Savannah
 layout: default
 permalink: /code-of-conduct/
 ---
