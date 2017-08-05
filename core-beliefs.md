@@ -1,10 +1,9 @@
 ---
-title: 'Our Core Beliefs'
-author: Default
-permalink: 'core-beliefs'
+layout: default
+title: Our Core Beliefs
+author: Open Savannah
+permalink: '/core-beliefs'
 ---
-
-# Our Core Beliefs
 
 1. **Government is (can be) what we do together.** Government can and should represent and serve the people in our communities, but it will only do that if we get involved and make it relevant to our communities’ needs.
 2. **Change start at the local level.** Starting with Savannah and Chatham County lets us connect directly with users and allows us to impact people’s lives faster.
