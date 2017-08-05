@@ -2,7 +2,7 @@
 title: Code of Conduct
 author: Open Savannah
 layout: default
-permalink: /code-of-conduct
+permalink: /code-of-conduct/
 ---
 
 #### Savannah's Bridgade of Code for America
