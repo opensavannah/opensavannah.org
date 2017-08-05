@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Our Core Beliefs
+layout: default
 permalink: /core-beliefs
 ---
 
