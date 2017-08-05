@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Our Core Beliefs
-author: Open Savannah
-permalink: '/core-beliefs'
+permalink: /core-beliefs
 ---
 
 1. **Government is (can be) what we do together.** Government can and should represent and serve the people in our communities, but it will only do that if we get involved and make it relevant to our communities’ needs.
