@@ -1,8 +1,8 @@
 # Site settings
 title: Open Savannah
 email: yall@opensavannah.org
-description: We play with data and deploy civic apps.
-url: "http://jolly-banana.cloudvent.net"
+description: We are a local brigade of Code for America committed to making government work better in Greater Savannah.
+url: "https://opensavannah.org"
 twitter_username: open_savannah
 github_username:  opensavannah
 paginate: 5
