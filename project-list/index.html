@@ -98,16 +98,36 @@
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
             <h2>Our Projects</h2>
-            <div class="container sheetsu-cols">
-  <div class="row" sheetsu="cdf8679587d3">
-    <div class="col-md-4 col-sm-6">
-      <img src="" alt="picture" />
-      <p></p>
-    </div>
+            <div class="container sheetsu-grid-big">
+  <div class="row" sheetsu="bcec6c581783">
+    <div class="col-md-6 element">
+      <img class="image" src="{{image}}" alt="image">
+      <h2>{{title}}</h2>
+      <p>{{text}}</p>
+    </divk>
   </div>
 </div>
-<script src="//load.sheetsu.com?a=cdf8679587d3&s=11"></script>
 
+<style>@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+.sheetsu-grid-big * .image {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.sheetsu-grid-big * .element.col-md-6:nth-child(2n+1){
+    clear: left;
+}
+
+.sheetsu-grid-big * .element {
+  margin-bottom: 20px;
+}
+
+.sheetsu-grid-big * .element p {
+  min-height: 40px;
+}
+</style>
+<script src="//load.sheetsu.com?a=bcec6c581783&s=2"></script>
           </div>
         </div>
 
