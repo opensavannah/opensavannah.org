@@ -6,7 +6,7 @@
   description: Data visualization dashboard for City FY '17 Budget.
   image: openbudgetsav.png
   url: http://openbudgetsav.org/
-- name: Open Issues Savannah
-  description: A prototype for civic mobile issue reporting.
-  image: pollingplaces.png
-  url: https://dev-open311-savannah.pantheonsite.io/
+- name: SavMaps.io
+  description: A filterable, searchable interactive map of social services that allows residents to locate the nearest services to their current location.
+  image: http://cvlassets.s3.amazonaws.com/Screen%20Shot%202017-08-22%20at%205.52.19%20AM.png
+  url: https://savmaps.io
