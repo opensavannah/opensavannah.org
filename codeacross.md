@@ -2,10 +2,10 @@
 title: CodeAcross Sacramento 2015
 author: Code for Sacramento
 layout: codeacross
-permalink: /codeacross/
+permalink: /hackforsavannah/
 ---
 
-CodeAcross Sacramento is a civic hackathon that will bring together professionals from the area to work on solutions to some of the problems identified at CityCamp, and more. We’ll spend the day developing first versions of new civic startups and open source projects that Code for Sacramento volunteers will contribute to in 2015.
+Hack for Savannah is a civic hackathon  that will award up a pool of $6,000 to winning teams and bring together professionals from the area to work on solutions to to a predefined event theme. We’ll convene at Bull Street Labs Friday evening for registration, swag pickup, a reception and brief panel.The hackathon challenge will also be announced during this time, and you will be assigned to your team. The doors will lock Friday at midnight at Bull Street Labs and be reopened at 8 a.m. with breakfast ready. will from that point forward remain occupied by a member of the Open Savannah Event Staff (wearing blue t-shirts) the day developing first versions of new civic startups and open source projects that Code for Sacramento volunteers will contribute to in 2015.
 
 If you're a developer, designer, or engaged citizen, CodeAcross Sacramento is an opportunity to collaborate with other civic innovators and makers.
 
