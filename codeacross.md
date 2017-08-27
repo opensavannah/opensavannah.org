@@ -1,7 +1,7 @@
 ---
-title: CodeAcross Sacramento 2015
-author: Code for Sacramento
-layout: codeacross
+title: Hack for Savannah 2017
+author: Open Savannah
+layout: default
 permalink: /hackforsavannah/
 ---
 
