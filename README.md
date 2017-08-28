@@ -3,6 +3,8 @@ opensavannah.org
 
 Open Savannah is a platform for civic innovation. As an open source organization, you can fork our code including our website. Help us make the site better by [forking it](https://help.github.com/articles/fork-a-repo/), adding new content or features, and [submitting a pull request](https://help.github.com/articles/creating-a-pull-request/)!
 
+Note: This site is hosted with GitHub pages and, as such, any changes you make to the repository will immediately be reflected on opensavannah.org.
+
 ## Updating content
 Most minor content updates can be made simply by making changes on your forked copy of this repository, then submitting a pull request. For example, following every event, the file `_layouts/home/cta.html` should **always** be updated to reflect the date of the next event.
 
