@@ -6,6 +6,18 @@ Open Savannah is a platform for civic innovation. As an open source organization
 ## Updating content
 Most minor content updates can be made simply by making changes on your forked copy of this repository, then submitting a pull request. For example, following every event, the file `_layouts/home/cta.html` should **always** be updated to reflect the date of the next event.
 
+## Updating Call-to-Action for upcoming events
+The CTA block just below the hero image can be quickly updated fairly easily:
+
+1. Fork this repository to your own account if you haven't already.
+2. Navigate to the file `_includes/home/cta.html`
+3. Edit the file on your forked copy of the repository to reflect the updated text that needs to appear in the Call-to-Action.
+4. Commit your changes.
+5. Come back to this repository, select `Pull Requests` and issue a `Pull Request` to merge your changes into the main repository.
+6. The changes then should automatically appear on the site in a few minutes!
+
+*Note: If you have admin privileges to this GH org, you may committ your updates directly to the repository without forking your own copy, but do so with vigilance.*
+
 MORE TK
 
 ---
