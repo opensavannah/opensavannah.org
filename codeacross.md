@@ -9,11 +9,11 @@ permalink: /hackforsavannah/
 
 ### Here's your chance...
 
-[Code for America](http://codeforamerica.org) local brigade [Open Savannah](https://opensavannah.org)'s first-annual ["Hack for Savannah"](http://hackforsavannnah.org)  hackathon (see [What is a civic hackathon?](https://opensavannah.org/what-is-a-hackathon)") is absolutely free to participate in, and the civic apps you build could end up being officially adopted by the City of Savannah or Chatham County. 
+[Code for America](http://codeforamerica.org) local brigade [Open Savannah](https://opensavannah.org)'s first-annual ["Hack for Savannah"](http://hackforsavannnah.org)  hackathon (see [What is a civic hackathon?](https://opensavannah.org/what-is-a-hackathon)") is absolutely free to participate in, and the civic apps you build could end up being officially adopted by the City of Savannah or Chatham County. 
 
 The first place team will take home **$2,500** (split equally among teammates), while the second and third place teams will each take home **$1,500** and **$1,000**, respectively. Additionally, the team with the best functional prototype (MVP) will receive a separate cash award of **$1,000.** The first place team will also receive free tuition to ATDC's Startup Bootcamp, and all three top teams will receive six (6) months free community membership at Bull Street Labs.
 
-The hackathon is being held in tandem with Code for America's annual [National Day of Civic Hacking](http://ndoch.us), an annual day of action to convene coders, bureaucrats, data scientists, journalists, user experience designers, and community activists to tackle big problems. Join us at Hack for Savannah, where we'll tackle a challenge that forms the fabric of our urban landscape and soul of our city: Our diverse and distinct neighborhoods.
+The hackathon is being held in tandem with Code for America's annual [National Day of Civic Hacking](http://ndoch.us), an annual day of action to convene coders, bureaucrats, data scientists, journalists, user experience designers, and community activists to tackle big problems. Join us at Hack for Savannah, where we'll tackle a challenge that forms the fabric of our urban landscape and soul of our city: Our diverse and distinct neighborhoods.
 
 #### How will it work?
 Participants will work in teams over two days to develop product and startup ideas that make a difference, with an additional prize bracket for the team with the best functional prototype. Winning teams will receive a total of $6K in cash prizes, courtesy of the generosity of Savannnah Economic Development Authority (SEDA). 
@@ -39,7 +39,7 @@ Yup. We don't call ourselves "Open Savannah" only to charge people money to atte
 
 
 ##### So, what's the catch?
-There is none. Because SEDA has been so generous in sponsoring this event – and because of other local businesses providing in-kind donation – this is an entirely free hackathon that even someone with basic technology skills can participate and have a shot at splitting a $3,500 prize package. All you have to do is commit to being a good teammate and showing up!
+There is none. Because SEDA has been so generous in sponsoring this event – and because of other local businesses providing in-kind donation – this is an entirely free hackathon that even someone with basic technology skills can participate and have a shot at splitting a $3,500 prize package. All you have to do is commit to being a good teammate and showing up!
 
 ##### What if I can't physically attend the whole event, or don't think I'm up to 1.5 days of collaborative work under deadline?
 
@@ -62,7 +62,7 @@ Apart from the hackathon, we'll be hosting in coordination with Live Oaks Public
 ## SCHEDULE
 #####  Friday, September 22, 
 + **6:30 p.m.** - Reception in main auditorium of Bull Street Labs.
-+ **7:00 - 7:15  p.m.**:  Welcome and Introduction by Open Savannah founder Carl V. Lewis.
++ **7:00 - 7:15  p.m.**: Welcome and Introduction by Open Savannah founder Carl V. Lewis.
 + **7:15 p.m.-7:20 p.m.**: Introduction of volunteer event staff from Open Savannah and Codebase; announcement of problem statement teams will be tackling.
 + **7:20 - 8:00 p.m.**: Panel of Neighborhood Association Presidents and City Purchasing Officials Convene
 + **8:00 p.m.**: Teams split up and assigned mentors and team leads. Participants (that's you) can take this opportunity to meet your teammates and discuss development plans for the weekend.
@@ -94,19 +94,19 @@ Apart from the hackathon, we'll be hosting in coordination with Live Oaks Public
 --
 
 ### FAQs
- 
+
 **What are my transportation/parking options for getting to and from the event?**
 
-Bull Street Labs is located in the Starland District of midtown Savannah. If taking public transit, the closest bus routes include the 4 Line, which stops at Barnard and 38th Streets, and either the 14 or the 11 lines, both of which stop at Abercorn and 38th Street (one block away).  
+Bull Street Labs is located in the Starland District of midtown Savannah. If taking public transit, the closest bus routes include the 4 Line, which stops at Barnard and 38th Streets, and either the 14 or the 11 lines, both of which stop at Abercorn and 38th Street (one block away). 
 
-If driving, be sure not to park in the lot directly opposite the building, as that is a private lot. Generally, there will be plenty of street parking available, and you should have little trouble finding a spot near the location. 
+If driving, be sure not to park in the lot directly opposite the building, as that is a private lot. Generally, there will be plenty of street parking available, and you should have little trouble finding a spot near the location.
 
 
 
 **How can I contact the organizer with any questions?**
 
 You can reach Open Savannah's Core Leadership team by emailing yall@opensavannah.org, and we'll get back to you within 24 hours. If you'd prefer speaking confidentially to the lead event organizer, email Carl V. Lewis at carl@opensavannah.org.
- 
+
 
 **What if I have a disability?**
 Everyone should be able to participate, and we endeavor to accommodate any and all disabilities. Please send an email to yall@opensavannah.org no later than one (1) week prior to the event stating your disability and how it may affect your participation. **We will make it work.**
