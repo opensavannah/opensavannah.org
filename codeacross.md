@@ -62,7 +62,8 @@ Apart from the hackathon, we'll be hosting in coordination with Live Oaks Public
 ---
 
 ## SCHEDULE
-####  Friday, September 22, 
+####  Friday, September 22
+
 + **6:30 p.m.** - Reception in main auditorium of Bull Street Labs.
 + **7:00 - 7:15  p.m.**: Welcome and Introduction by Open Savannah founder Carl V. Lewis.
 + **7:15 p.m.-7:20 p.m.**: Introduction of volunteer event staff from Open Savannah and Codebase; announcement of problem statement teams will be tackling.
