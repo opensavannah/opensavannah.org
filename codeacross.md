@@ -11,7 +11,7 @@ permalink: /hackforsavannah/
 
 ### Here's your chance...
 
-[Code for America](http://codeforamerica.org) local brigade [Open Savannah](https://opensavannah.org)'s first-annual ["Hack for Savannah"](http://hackforsavannnah.org)  hackathon (see [What is a civic hackathon?](https://opensavannah.org/what-is-a-hackathon)") is absolutely free to participate in, and the civic apps you build could end up being officially adopted by the City of Savannah or Chatham County. 
+[Open Savannah](https://opensavannah.org)'s first-annual ["Hack for Savannah"](http://hackforsavannnah.org) civic hackathon (see [What is a civic hackathon?](https://opensavannah.org/what-is-a-hackathon)") is absolutely free to participate in, and the civic apps you build could end up being officially adopted by the City of Savannah or Chatham County. 
 
 The first place team will take home **$2,500** (split equally among teammates), while the second and third place teams will each take home **$1,500** and **$1,000**, respectively. Additionally, the team with the best functional prototype (MVP) will receive a separate cash award of **$1,000.** The first place team will also receive free tuition to ATDC's Startup Bootcamp, and all three top teams will receive six (6) months free community membership at Bull Street Labs.
 
