@@ -49,6 +49,7 @@ There is none. Because SEDA has been so generous in sponsoring this event – an
 Apart from the hackathon, we'll be hosting in coordination with Live Oaks Public Library System a Local Wikithon (see ["What is a wikithon?"](http://www.nickmilton.com/2014/08/the-wikithon-great-way-to-get-wiki.html))  Saturday afternoon from 1 p.m. to 5 p.m. for members of the community who want to show their support and build something useful, but who can't commit to the entire duration of the event or worry (irrationallly!) that they won't have anything useful to contribute. A 'wikithon' is sort of like the creation of a hyperlocal wiki; you use your locality knowledge to enter items into the wiki just as you would on Wikipedia, except it's hyperlocal and meant to capture the knowledge of residents about the lesser known parts of the City and County. We'll enter the data onto Savannah's page on [localwiki.org](http://localwiki.org). Sorry, no prizes for the wikithon other than civic pride!
 
 ---
+
 ### Register Now
 
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=37262881281&ref=etckt" frameborder="0" height="325" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
