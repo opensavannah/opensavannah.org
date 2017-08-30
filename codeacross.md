@@ -62,7 +62,7 @@ Apart from the hackathon, we'll be hosting in coordination with Live Oaks Public
 ---
 
 ## SCHEDULE
-#### Friday, September 22
+####Friday, September 22
 
 
 + **6:30 p.m.** - Reception in main auditorium of Bull Street Labs.
