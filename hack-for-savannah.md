@@ -5,7 +5,7 @@ layout: default
 permalink: /hackforsavannah/
 ---
 
-![](http://cvlassets.s3.amazonaws.com/hackforsavsmall.jpg)
+![100%](http://cvlassets.s3.amazonaws.com/hackforsavsmall.jpg)
 
 ### Want to build [stuff that matters](https://github.com/opensavannah)? Want to have a [fun time](https://photos.app.goo.gl/D2hkIXsEdCM0twwO2) meeting new interesting and creative people from the Savannah area? *Want a chance to win up to $2,500 doing it?*
 
