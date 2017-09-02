@@ -1,7 +1,7 @@
 - name: SavBook
   description: Your one-stop mobile web app for community resources and social services,
   image: savbook.png
-  url: http://savbook.io
+  url: https://savbook.io
 - name: Open Budget Savannah
   description: Data visualization dashboard for City FY '17 Budget.
   image: openbudgetsav.png
@@ -9,4 +9,4 @@
 - name: SavMaps.io
   description: A filterable, searchable interactive map of social services that allows residents to locate the nearest services to their current location.
   image: savmapsio.png
-  url: https://savmaps.io
+  url: http://savmaps.io
