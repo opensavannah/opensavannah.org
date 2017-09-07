@@ -1,7 +1,6 @@
 ---
 title: #Hack4Sav Across the Social Web
 author: Open Savannah
-layout: default
 permalink: /social-wall/
 ---
 
