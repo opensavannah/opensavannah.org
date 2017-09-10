@@ -16,3 +16,7 @@ The Hacker Ethic originates from the early days of the computer revolution. To c
 Hacks are novel creations or solutions to problems and the purpose of a Hackathon is to create them.  Hacks are not always elegant, and may sometimes be little more than prototypes, but they can be transformative and expose new ways of solving problems or analyzing data.
 
 The word “Hackathon” comes from combining the words ‘Hack’ and ‘Marathon’, and implies a long sprint to create something useful in a single event.
+
+## A *civic* hackathon
+
+For our purposes as a civic-technology organization, it is vitally important to note that all work we do should have intrinsic civic value. Whenever promoting or talking about a hackathon, we should consistently include the . `civic` qualifier, as it is symbolic of the types of hacks we aim to achieve.
