@@ -1,4 +1,4 @@
-- name: Coastal Georgia Regional Indicators Coalition
+- name: Savannah Economic Development Authority
   logo: seda-transparent.png
   website: 'http://www.seda.org'
 - name: The Creative Coast
@@ -7,3 +7,6 @@
 - name: Code for America
   logo: hacker_lab.png
   website: 'http://codeforamerica.org/'
+- name: Enmarket
+  logo: hacker_lab.png
+  website: 'http://enmarkstations.com/'
