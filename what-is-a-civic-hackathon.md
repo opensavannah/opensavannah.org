@@ -2,7 +2,7 @@
 title: What is a hackathon?
 author: Open Savannah
 layout: default
-permalink: /what-is-a-hackathon/
+permalink: /what-is-a-civic-hackathon/
 ---
 
 The term “Hacker” has been somewhat abused by the media, such that many may now view it as a derogatory term.  It has often been used by media to describe criminals who infect systems and breach networks.  
