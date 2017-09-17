@@ -204,6 +204,13 @@ td, th {
   padding: 0
 }
 
+@media (max-width: 900px)
+  {
+    h1 {
+       font-size: 1em;
+    }
+}
+
 
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 
