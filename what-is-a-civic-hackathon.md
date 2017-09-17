@@ -1,5 +1,5 @@
 ---
-title: What is a hackathon?
+title: What is a civic hackathon?
 author: Open Savannah
 layout: default
 permalink: /what-is-a-civic-hackathon/
@@ -29,7 +29,7 @@ This meaning is a source of pride among programmers and geeks and actually was t
 
 Here are some problems that civic hackers work on:
 
-In Uganda, improved public access to information about government funding of public schools increased school enrollment and test scores. A random audit of Brazilian mayors was found to affect elections most in municipalities where the audit was disseminated widely. Data on pedestrian injuries in San Francisco showed that "5 percent of the city streets account for 55 percent of the injuries weighted for severity." And in Boston, a Code for America fellowship team built a public school eligibility website to help parents through school selection that, said a school official, "changed the way [the School Department] relates to parents." The dissemination of government information leads to a wide range of improved policy outcomes. Local data helps neighborhood organizations make practical decisions (for more see [Informing Policy Decisions][5]).
+In Uganda, improved public access to information about government funding of public schools increased school enrollment and test scores. A random audit of Brazilian mayors was found to affect elections most in municipalities where the audit was disseminated widely. Data on pedestrian injuries in San Francisco showed that "5 percent of the city streets account for 55 percent of the injuries weighted for severity." And in Boston, a Code for America fellowship team built a public school eligibility website to help parents through school selection that, said a school official, "changed the way [the School Department] relates to parents." The dissemination of government information leads to a wide range of improved policy outcomes. **Local data helps neighborhood organizations make practical decisions (for more see [Informing Policy Decisions][5]).**
 
 Since so much of our lives is now about interfacing with our government, much of civic hacking is about improving what Cyd Harrell calls the "citizen experience." Hacking the civic experience means re-imagining how our interactions with government could be improved if governments were better at respecting "citizen's dignity and time" and citizens' willingness to participate in governance. Civic hacking isn't just coding: Hacking the citizen experience is a _design_ problem requiring thinking about processes and interactions. Let's rethink the process of registering to vote: [TurboVote][6] will send you text message reminders before elections. Let's rethink how our government investigates predatory financial services: The U.S. government's Consumer Financial Protection Bureau built an all-new [complaint system][7] that smoothly and painlessly walks users through the process of having their complaint investigated.
 
@@ -53,7 +53,7 @@ App development has lately been spurred by contests or "challenges." The first I
 
 Solving real-world problems often takes years of deliberate effort, though. iStrategyLabs's estimate of a 40-times return on investment for the DC government was a public relations exaggeration. Most app contests do not produce apps that actually solve problems. The same is true of "hackathons," one- or two-day community-run problem-solving events typically held around a particular theme. At least, it is true when you look at a single contest or hackathon in isolation. But each is a small part of an incredibly broad movement.
 
-At a [hackathon I ran in Philadelphia in 2009][10], two analysts from the New Jersey State Police worked over the course of two days with five volunteer programmers to develop a visualization tool for gang activity tracked by the police department. On that same day, nearly 200 developers across the country were participating in the Sunlight Foundation's call for a [Great American Hackathon][11]. Hackathons are growing in popularity. On in February 2014, hackathons were held in about 100 cities. Ours in Washington, D.C. had more than 300 participants working on projects to address government corruption, improving the public education system, cataloging open data, and teaching others data skills.
+ Hackathons are growing in popularity. On in February 2014, hackathons were held in about 100 cities. Ours in Washington, D.C. had more than 300 participants working on projects to address government corruption, improving the public education system, cataloging open data, and teaching others data skills.
 
 These short events strengthen the connections among local hackers and help orient them to the complexities of civic problems. That is especially true when subject matter experts, especially those in government, participate, as in the case of our gang crime hackathon in 2009. A weekend hackathon may only be a tiny portion of the time needed to make progress on a real problem, but a hackathon may not be the beginning and the end of the time spent on it — often it is a pit stop for participants that have long been invested in a problem. And while technology may be only a small part of solving most real world problems, the use of information technology is becoming more and more important to finding solutions as our world becomes more and more complex. There are few problems left that can be understood without data and information processing tools.
 
@@ -67,4 +67,3 @@ These short events strengthen the connections among local hackers and help orien
 [8]: http://www.whitehouse.gov/blog/2013/08/07/american-dream-aided-open-government-data
 [9]: http://www.istrategylabs.com/2008/11/apps-for-democracy-yeilds-4000-roi-in-30-days-for-dcgov/
 [10]: http://njgangsurvey.civicimpulse.com
-[11]: http://sunlightfoundation.com/press/releases/2009/12/15/nearly-200-developers-across-country-participate-s/
