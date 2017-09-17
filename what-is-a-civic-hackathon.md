@@ -21,6 +21,10 @@ The word “Hackathon” comes from combining the words ‘Hack’ and ‘Marath
 
 For our purposes as a civic-technology organization, it is vitally important to note that all work we do should have intrinsic civic value. Whenever promoting or talking about a hackathon, we should consistently include the . `civic` qualifier, as it is symbolic of the types of hacks we aim to achieve.
 
+### CIVIC HACKING 101
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H_on0kXZ07M?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 Civic hacking is a creative and often technological approach to solving civic problems. These civic problems run the gamut from voter registration and public education to helping consumers buy homes and choose financial advisors. Often civic hacking involves the use of government data to make governments more accountable, but the goals of civic hacking are as diverse as those who might call themselves hackers. Civic hackers can be programmers, designers, data scientists, good communicators, civic organizers, entrepreneurs, government employees and anyone willing to get his or her hands dirty solving problems. Some civic hackers are employed by nonprofits, such as [Code for America][1]. Some work for innovative for-profit companies, such as the geospatial software provider [Azavea][2] in Philadelphia. Others are civic hackers only by night.
 
 This use of "hacking" might surprise you. The word "hacking" is a homonym. It has many meanings, in the same way that other words such as "mouse" and "fluke" have multiple meanings. The most familiar meaning of "hacking" means a computer crime, but that's not the meaning of "hacking" in the phrase civic hacking. Here "hacking" means perverting something's original purpose to solve a problem. Rube Goldberg machines are made up of hacks. The first computer games were hacks (computers were not meant for games). The website [IKEAHackers.net][3] shows how one can turn a pillow into a child's costume, and [ParentHacks.com][4] offers counter-intuitive cooking tips. The best hacks are simple, creative solutions to interesting problems.
