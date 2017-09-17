@@ -5,6 +5,8 @@ layout: default
 permalink: /what-is-a-civic-hackathon/
 ---
 
+By CARL V. LEWIS
+
 The term “Hacker” has been somewhat abused by the media, such that many may now view it as a derogatory term.  It has often been used by media to describe criminals who infect systems and breach networks.  
 
 The reality of the true Hacker, and of the Hackathon couldn't be further from this image.
