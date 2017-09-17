@@ -187,15 +187,15 @@ section#job {
 
 @media (max-width: 760px) {
   .jumbotron h1, .jumbotron .h1 {
-    font-size: 42px;
+    font-size: 62px;
   }
 
-  h1{
+  h1, .h1{
   font-size: 42px;
 }
 }
-@media (max-width: 380px) {
+@media (max-width: 400px) {
   .jumbotron h1, .jumbotron .h1 {
-    font-size: 30px;
+    font-size: 40px;
   }
 }
