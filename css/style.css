@@ -65,6 +65,15 @@ footer li {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
 
+
+
+.jumbotron h1, .jumbotron .h1 {
+  color: #fff;
+  font-weight: bold;
+  font-family: Roboto, sans-serif;
+  text-shadow: 2px 2px 2px #000;
+}
+
 /* CodeAcross landing page */
 .banner {
   width: 100%;
@@ -173,4 +182,11 @@ section#job {
 .sheetsu-cols > .row > div > p {
   text-align: center;
   min-height: 50px;
+}
+
+
+@media (max-width: 760px) {
+  .jumbotron h1, .jumbotron .h1 {
+    font-size: 14px;
+  }
 }
