@@ -3,6 +3,7 @@ _site/
 .sass-cache/
 bower_components/
 dist/
+vendor/
 node_modules/
 build/
 *.json
@@ -24,7 +25,7 @@ gulpfile.js
 *.so
 *.7z
 *.dmg
-*.gz
+*.gz6
 *.iso
 *.jar
 *.rar

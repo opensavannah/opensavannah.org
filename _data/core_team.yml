@@ -14,6 +14,7 @@
     intelligence consulting agency.
   email: carl@opensavannah.org
   twitter: carlvlewis
+  github: carlvlewis
   linkedin: 'https://www.linkedin.com/in/carlvvlewis'
 - name: Rob Lingle
   title: 'Brigade Captain, *Chief Instigator*'
@@ -26,6 +27,7 @@
     as apps for managing your household budget.
   email: rob@opensavannah.org
   twitter: roblingle
+  github: roblingle
   linkedin: 'https://www.linkedin.com/in/roblingle'
 - name: Caila Brown
   title: Storyteller/Marketing Lead
@@ -40,6 +42,7 @@
     the Savannah Children’s Choir, Georgia Bikes! and Coastal Empire News.
   email: caila@opensavannah.org
   twitter: cailab
+  github: 
   linkedin: 'https://www.linkedin.com/in/cailabrown'
 - name: Gary Skoglind
   title: Delivery Lead
@@ -51,6 +54,7 @@
     live in Savannah.
   email: gary@opensavannah.org
   twitter:
+  github:
   linkedin: 'https://www.linkedin.com/in/nickhelmholdt'
 - name: Nick Helmholdt
   title: Local Government Liason
@@ -62,6 +66,7 @@
     government.
   email: nhelmholdt@thempc.org
   twitter: nhelmholdt
+  github:
   linkedin: 'https://www.linkedin.com/in/nickhelmholdt'
 - name: Brian Young
   title: Technology Lead
@@ -77,6 +82,7 @@
     sectors.
   email: brian@opensavannah.org
   twitter: brianontheroad
+  github: brianontheroad
   linkedin: 'https://www.linkedin.com/in/brianyoung'
 - name: Aaron Pompei
   title: Community Lead
@@ -88,6 +94,7 @@
     municipal staff to improve our city.
   email: aaron@aaronpompei.com
   twitter: aaronpompei
+  github: apompei
   linkedin: 'https://www.linkedin.com/in/nickhelmholdt'
 - name: Nick Palumbo
   title: Neighborhood Association Outreach Lead
@@ -100,16 +107,18 @@
     connected to the people that make Savannah such a great place to live.
   email: nick@opensavannah.org
   twitter: 
+  github:
   linkedin: 'https://www.linkedin.com/in/nickhelmholdt'
-- name: Roy E. Mosby
+- name: Roy Mosby
   title: Data Curation and Standards Lead; Project Maintainer, SavMaps.
   headshot: roy.jpg
   bio: >-
     Roy has been in the U.S. Army’s Signal Corps for more than 15 years. As he approaches two decades of total military service, Roy is preparing to transition to a civilian career in the tech field. He has a passion for process improvement and devising strategies for streamlining routine tasks. He has fallen in love with the beauty of Savannah and is using Open Savannah as an opportunity to make a home and continue to serve those around him.
 
   email: roy.mosby@opensavannah.org
-  twitter: 
-  linkedin: 
+  twitter: royemosby
+  github: egomadking
+  linkedin: 'https://linkedin.com/in/roy-mosby'
 - name: Patrick Bentley
   title: Econonic and Workforce Development Lead
   headshot: pbentley.png
