@@ -25,7 +25,7 @@ gulpfile.js
 *.so
 *.7z
 *.dmg
-*.gz6
+*.gz
 *.iso
 *.jar
 *.rar
