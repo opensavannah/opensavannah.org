@@ -1,5 +1,5 @@
 ---
-title: Become a neighborhood ambassador
+title: Neighborhood ambassador SMS campaign
 author: Open Savannah
 layout: default
 permalink: /neighorhood-ambassador/
