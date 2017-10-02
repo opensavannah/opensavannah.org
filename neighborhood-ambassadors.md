@@ -1,5 +1,5 @@
 ---
-title: Workshops
+title: Become a neighborhood ambassador
 author: Open Savannah
 layout: default
 permalink: /neighorhood-ambassador/
