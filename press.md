@@ -1,5 +1,5 @@
 ---
-title: Our Core Beliefs
+title: In the news
 layout: default
 permalink: /in-the-news/
 ---
@@ -10,4 +10,4 @@ Although we've only been around for less than nine months, we've already garnere
 
 + [Three Cities Point Hacking Efforts Toward Recent Hurricanes](http://www.govtech.com/civic/3-Cities-Point-Hacking-Efforts-toward-Recent-Hurricanes.html), *GovTech* magazine, 16 Oct., 2017.
 + [Calling all the good hackers](https://www.connectsavannah.com/savannah/calling-all-the-good-hackers/Content?oid=5961452), *Connect Savannah*, 18 Oct., 2017.
-+ 
++ [National Day of Civic Hacking: Southeast U.S. Recap](https://medium.com/@robdotd/national-day-of-civic-hacking-southeast-u-s-recap-29742ca32b20), Medium.vom, 26 Oct., 2017.
