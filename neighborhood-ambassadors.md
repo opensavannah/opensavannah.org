@@ -2,7 +2,7 @@
 title: Neighborhood ambassador SMS campaign
 author: Open Savannah
 layout: default
-permalink: /neighorhood-ambassador/
+permalink: /neighborhood-ambassador/
 ---
 
 ### Opportunity for citizens:
