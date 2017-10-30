@@ -11,6 +11,5 @@ permalink: /neighborhood-ambassador/
 <br><br>
 Text `opensav` to 
 <h2>797979<h2>
-<P>
-to get started. We'll follow up within 48 hours with a personal SMS reply telling you more about our neighborhood captain program and explaining to you how the process will work. We're basically asking to get your approximate address, and then whenever someone in your neighborhood has an issue that you think we could help with, just shoot us a text.<P> 
+<p>...to get started. We'll follow up within 48 hours with a personal SMS reply telling you more about our neighborhood captain program and explaining to you how the process will work. We're basically asking to get your approximate address, and then whenever someone in your neighborhood has an issue that you think we could help with, just shoot us a text.</p> 
 
