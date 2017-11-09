@@ -236,9 +236,6 @@ Text `opensav` to
         Available in USA. Up to 200 msg/mo.
         Your privacy is always protected and your information will not be shared.
         <br/>
-        Powered by
-        <a href="http://www.eztexting.com" target="_blank">
-            EZ Texting        </a>
     </div>
 </div>
 
