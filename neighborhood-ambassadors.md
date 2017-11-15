@@ -7,7 +7,7 @@ permalink: /neighborhood-ambassador/
 
 ### Opportunity for citizens:
 <h3><strong> BECOME THE EYES AND EARS OF YOUR NEIGHBORHOOD</strong></h3>
-<img width="40%" src="https://cvlassets.s3.amazonaws.com/np_text-message_526520_4A90E2.png">
+<script src="https://gist.github.com/carlvlewis/49f9ff201daabd8b77f46674038c785c.js"></script>
 <br><br>
 Text `opensav` to 
 <h2>797979</h2>
