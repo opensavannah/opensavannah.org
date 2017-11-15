@@ -8,6 +8,7 @@ permalink: /neighborhood-ambassador/
 ### Opportunity for citizens:
 <h3><strong> BECOME THE EYES AND EARS OF YOUR NEIGHBORHOOD</strong></h3>
 <script src="https://gist.github.com/carlvlewis/49f9ff201daabd8b77f46674038c785c.js"></script>
+<em>The map above displays the boundaries of all 102 officially-designated Savannah neighborhoods. Zoom in to find out what neighborhood you live in!</em>
 <br><br>
 Text `opensav` to 
 <h2>797979</h2>
