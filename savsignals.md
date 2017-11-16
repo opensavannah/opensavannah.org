@@ -1,5 +1,5 @@
 ---
-title: SavSignals Community Indicators Project
+title: 
 author: Open Savannah
 layout: default
 permalink: /savsignals/
