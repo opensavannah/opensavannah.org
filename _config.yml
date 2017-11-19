@@ -2,7 +2,7 @@
 title: Code for Newark
 email: ''
 description: We are a local brigade of Code for America committed to making government work better in Newark.
-url: "https://code4newark.github.io/codefornewark.org/"
+baseurl: "https://code4newark.github.io/codefornewark.org/"
 twitter_username: ''
 github_username:  code4newark
 paginate: 5
