@@ -1,15 +1,12 @@
 # Site settings
-title: Open Savannah
-email: yall@opensavannah.org
-description: We are a local brigade of Code for America committed to making government work better in Greater Savannah.
-url: "https://opensavannah.org"
-twitter_username: open_savannah
-github_username:  opensavannah
+title: Code for Newark
+email: ''
+description: We are a local brigade of Code for America committed to making government work better in Newark.
+url: "https://codefornewark.org"
+twitter_username: ''
+github_username:  code4newark
 paginate: 5
 paginate_path: "blog/page:num/"
 
 # Build settings
 markdown: kramdown
-
-
-
