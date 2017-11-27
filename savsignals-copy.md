@@ -2,7 +2,7 @@
 title: 
 author: Open Savannah
 layout: default
-permalink: /savsignals/
+permalink: /what-is-a-civic-launchpad/
 ---
 
 {% include special/savsignals.html %}
