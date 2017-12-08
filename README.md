@@ -36,7 +36,7 @@ If you want to make significant changes to the site, it's recommended you do so 
 ### Installation
 
 #### Clone the Repository
-`git clone https://github.com/code4sac/codeforsacramento.org.git`
+`git clone https://github.com/code4sac/codeforsavannah.org.git`
 
 #### Install Dependencies
 `bundle`
