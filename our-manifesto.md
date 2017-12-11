@@ -1,11 +1,22 @@
 ---
-title: Our Core Beliefs
+title: Our Manifesto
 layout: default
-permalink: /core-beliefs/
+permalink: /manifesto/
 ---
 
 
-1. **Local government is (can be) what we do together.** Government can and should represent and serve the people in our communities, but it will only do that if we get involved and make it relevant to our communities’ needs.
+**Move away from finite digital projects**
+Civic-tech organizations can often view their mission in much the same way they would a building project. It is
+a one off, finite cost, followed by a small amount of maintenance. We believe organisations should view digital as more like a garden. It is something that
+needs to be nurtured, developed and grown on a continual basis. It needs a continuous improvement model. The metrics must be focused on outcomes, not inputs. Forget about the technology or the content. Focus on the user and measure success on an ongoing basis based on whether the user is successful or not in doing what they came to do.
+
+**Real change happens outside the command line**.
+
+**The big thing about small things is that they add up.** 
+
+
+**Open data is valuable, but open, linked data is more valuable**.
+
 2. **Change starts at the local level.** Starting with Savannah and Chatham County lets us connect directly with users and allows us to impact people’s lives faster.&nbsp;
 3. **We envision local government as transcending municipal borders**. The City of Savannah and Chatham County exist as interconnected, interdependent and merely abstract places whose borders lead to tribalism, infighting and inefficiency. To us, 'Savannah' doesn't just refer to the area within the city limits; it refers to the broader sense of place with which all 540,000 Coastal Georgians identify as a region. Likewise, we think that unity, collaboration, and city-county consolidation are necessary for the future of Savannah.
 4. **We believe that economic development happens from the bottom-up first.**No amount of recruitment of major companies to the region and no amount of jobs created alone can create broad-based prosperity. To fix poverty, we must start with the source,**&nbsp;**which means confronting thorny issues such as the digital divide, the continued effects of racial segregation on community stratification and how new development projects impact the incumbents of our community.
