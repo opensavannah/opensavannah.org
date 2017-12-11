@@ -13,6 +13,23 @@ needs to be nurtured, developed and grown on a continual basis. It needs a conti
 **Real change happens outside the command line**.
 
 **The big thing about small things is that they add up.** 
+The usability, accessibility, and efficiency of government services is more than the sum of its parts. Wonky pagination on a webform to apply for a business license may seem like a trivial matter, but it very well could prevent the creation of hundreds of new local jobs. 
+
+**Focus on the strength of our Core Team**.
+
+**Process before Product**.
+
+**Listen to users, then engage in dialogue with them**. 
+
+**Only worry about security for open data apps if and when it has been shown to be an issue**.
+
+**Blame the system, not the person.**
+
+**We are the change we've been waiting for.**
+
+**Teaching technology is easy. Teaching empathy is not.**
+
+**Information + invitation = participation.**
 
 
 **Open data is valuable, but open, linked data is more valuable**.
