@@ -6,6 +6,7 @@ permalink: /core-beliefs/
 
 1. **Local government is (can be) what we do together.** Government can and should represent and serve the people in our communities, but it will only do that if we get involved and make it relevant to our communities’ needs.
 2. **Change starts at the local level.** Starting with Savannah and Chatham County lets us connect directly with users and allows us to impact people’s lives faster.
+3. **We envision local government beyond municipal borders**. The City of Savannah and Chatham County are interconnected, interdependent and not defined by political boundaries. To us, 'Savannah' doesn't just refer the city limits; it refers to the broader sense of place with which Coastal Georgians identify. Likewise, we think that unity and consolidation are necessary for the future of Savannah.
 3. **We strive for impact at scale.** The two biggest levers for improving people’s lives at scale are technology and government--we put them together, to solve some of America’s biggest challenges. 
 4. **We create change by doing**. We make the change we want to see real as fast as possible, building visible product, and building trust and buy-in as we deliver results. (The strategy is delivery? Show the thing?)
 5.  **We create change through advocacy and collective action**. We aim to make *civics* sexy again. Civic illiteracy is often willful. We believe that by educating the public better as to how they can influence power as citizens in a democracy.
