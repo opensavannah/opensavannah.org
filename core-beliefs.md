@@ -30,5 +30,5 @@ permalink: /core-beliefs/
 
 **We help local government work for the people who need it most** – We focus on improving services for the most vulnerable in our society and in restoring civic trust in an era of record cynicism.
 
-No one is coming . . . it's up to us.
-## We are Open Savannah.
+<h3>No one is coming . . . it's up to us.</h3>
+<h1>We are Open Savannah.</h1>
