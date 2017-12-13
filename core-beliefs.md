@@ -29,5 +29,6 @@ permalink: /core-beliefs/
 22. **We meet people where they are.&nbsp;**To engage in meaningful dialogue with the entire Savannah community, we must consciously seek to communicate on the platforms and in the physical spaces citizens know and frequent most. We don't believe putting code on GitHub can, in itself, have broad-based impact
 
 **We help local government work for the people who need it most** – We focus on improving services for the most vulnerable in our society and in restoring civic trust in an era of record cynicism.
+
 ### No on is coming . . . it's up to us.
 ## We are Open Savannah.
