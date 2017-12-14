@@ -20,6 +20,8 @@ We can serve everyone with respect and dignity.
 
 **It would be the biggest source of societal good for a generation. Let's all build it together.**
 
+
+
 **Move away from finite digital projects**
 Civic-tech organizations can often view their mission in much the same way they would a building project. It is
 a one off, finite cost, followed by a small amount of maintenance. We believe organisations should view digital as more like a garden. It is something that
