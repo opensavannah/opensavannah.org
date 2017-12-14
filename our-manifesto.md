@@ -4,6 +4,21 @@ layout: default
 permalink: /manifesto/
 ---
 
+The following docunent details both the operating principles of our parent organization, Code for America, but also breaks down additional beliefs of Open Savannah.
+
+# Our vision, mission, values, and operating principles
+
+**Government can work for the people, by the people, in the digital age.**
+
+Services can be simple, accessible, and easy to use.
+
+Outcomes can be measurably better.
+
+Better can cost less.
+
+We can serve everyone with respect and dignity.
+
+**It would be the biggest source of societal good for a generation. Let's all build it together.**
 
 **Move away from finite digital projects**
 Civic-tech organizations can often view their mission in much the same way they would a building project. It is
@@ -11,11 +26,13 @@ a one off, finite cost, followed by a small amount of maintenance. We believe or
 needs to be nurtured, developed and grown on a continual basis. It needs a continuous improvement model. The metrics must be focused on outcomes, not inputs. Forget about the technology or the content. Focus on the user and measure success on an ongoing basis based on whether the user is successful or not in doing what they came to do.
 
 **Real change happens outside the command line**.
+If we spend all our time building projects behind the glare of a screen, how will we ever expect to affect meaningful change in the community? Yes, we believe technology, open (and linked) data, design and locality knowledge are modes for civic empowerment and change, but no single app alone is going to lead to catalytic change of the status quo.
 
 **The big thing about small things is that they add up.** 
-The usability, accessibility, and efficiency of government services is more than the sum of its parts. Wonky pagination on a webform to apply for a business license may seem like a trivial matter, but it very well could prevent the creation of hundreds of new local jobs. 
+The usability, accessibility, and efficiency of government services is more than the sum of its parts. Wonky pagination on a webform to apply for a business license may seem like a trivial matter, but it very well could prevent the creation of hundreds of new local jobs by being just a high enough barrier to entry for a would-be entrepreneur to build the next great local business.
 
 **Focus on the strength of our Core Team**.
+Sustainability requires more than one or two key leaders. It requires an ecocsytem of 
 
 **Process before Product**.
 
@@ -29,10 +46,14 @@ The usability, accessibility, and efficiency of government services is more than
 
 **Teaching technology is easy. Teaching empathy is not.**
 
+**Locality knowledge is the most important and valuable type of data**
+The knowledge that everyday residents have about their neighborhoods is the sort of interpersonal data that not even 'big data' companies have a way to tap into often. 
+
 **Information + invitation = participation.**
 
 
 **Open data is valuable, but open, linked data is more valuable**.
+
 
 2. **Change starts at the local level.** Starting with Savannah and Chatham County lets us connect directly with users and allows us to impact people’s lives faster.&nbsp;
 3. **We envision local government as transcending municipal borders**. The City of Savannah and Chatham County exist as interconnected, interdependent and merely abstract places whose borders lead to tribalism, infighting and inefficiency. To us, 'Savannah' doesn't just refer to the area within the city limits; it refers to the broader sense of place with which all 540,000 Coastal Georgians identify as a region. Likewise, we think that unity, collaboration, and city-county consolidation are necessary for the future of Savannah.
