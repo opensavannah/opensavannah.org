@@ -1,5 +1,5 @@
 ---
-title: Our Manifesto
+title: Our Vision and Operating Principles
 layout: default
 permalink: /vision/
 ---
