@@ -40,6 +40,9 @@ Civic-tech organizations can often view their mission in much the same way they 
 a one off, finite cost, followed by a small amount of maintenance. We believe organisations should view digital as more like a garden. It is something that
 needs to be nurtured, developed and grown on a continual basis. It needs a continuous improvement model. The metrics must be focused on outcomes, not inputs. Forget about the technology or the content. Focus on the user and measure success on an ongoing basis based on whether the user is successful or not in doing what they came to do.
 
+**Civic-tech is not just about coding**
+
+
 **Real change happens outside the command line**.
 If we spend all our time building projects behind the glare of a screen, how will we ever expect to affect meaningful change in the community? Yes, we believe technology, open (and linked) data, design and locality knowledge are modes for civic empowerment and change, but no single app alone is going to lead to catalytic change of the status quo.
 
@@ -51,7 +54,7 @@ Sustainability requires more than one or two key leaders. It requires an ecocsyt
 
 **Process before Product**.
 
-**Listen to users, then engage in dialogue with them**. 
+**Listen to users, engage in dialogue with them, constantly involve users in the process of civic creation**. 
 
 **Only worry about security for open data apps if and when it has been shown to be an issue**.
 
