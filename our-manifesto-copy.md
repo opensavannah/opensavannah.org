@@ -1,14 +1,11 @@
 ---
 title: Our Manifesto
 layout: default
-permalink: /manifesto/
+permalink: /vision/
 ---
-
-The following docunent details both the operating principles of our parent organization, Code for America, but also breaks down additional beliefs of Open Savannah.
-
 # Our vision, mission, values, and operating principles
 
-**Government can work for the people, by the people, in the digital age.**
+**Government can work for the people, by the people, in the digital age, and municipal governments can lead the way.**
 
 Services can be simple, accessible, and easy to use.
 
@@ -20,6 +17,22 @@ We can serve everyone with respect and dignity.
 
 **It would be the biggest source of societal good for a generation. Let's all build it together.**
 
+----
+# Our mission
+
+#### How we intend to make our vision real
+
+Open Savannah uses the principles and practices of the digital age to improve how government serves the American public, and how the public improves government.
+
+##### To inspire change
+To inspire public servants, people from the tech sector, and community organizers to create change by proving government can do better and showing others how.
+
+##### To make change real
+Providing government with access to the resources and digital talent they need so that together we can meaningfully impact some of the world’s toughest societal challenges.
+##### To make change stick
+Connecting and convening people from inside and outside government, and from all over the world to inspire each other, share successes, learn, build, and shape a new culture of public service for the 21st century.
+
+### To do it all at scale, serving those who need it most.
 
 
 **Move away from finite digital projects**
