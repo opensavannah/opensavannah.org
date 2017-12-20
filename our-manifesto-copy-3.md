@@ -1,84 +1,50 @@
 ---
-title: Our Manifesto
+title: Get Started With Open Savannah
 layout: default
-permalink: /manifesto/
+permalink: /get-started/
 ---
 
-The following docunent details both the operating principles of our parent organization, Code for America, but also breaks down additional beliefs of Open Savannah.
+# Getting Started with Open Savannah
 
-# Our vision, mission, values, and operating principles
+## We Need Your Help
 
-**Government can work for the people, by the people, in the digital age.**
+No matter what your background is, we would love to put it to use!  Code for BTV isn't just about building software, we're making our community work better, and that means we need help from everyone:
 
-Services can be simple, accessible, and easy to use.
+* **Subject-Matter Experts and Passionate People**  
+The people building technology solutions usually are not experts in the field.  Whether your professional experience matches up with our projects, or whether you just have an interest that you're willing to pursue further than most, if you are willing to dig in deep and provide context and guidance to our developers then we need your help.  
+ 
+* **Project Managers and Problem Solvers**  
+Any project that is going to have an impact needs someone to set the course and clear the hurdles.  If you have a gift for seeing the big picture and tackling problems before they reach you, then you have a place with Code for BTV.  
+ 
+* **Designers and User Experience**  
+If you have an aesthetic eye and an understanding of why people make the decisions they do, then you know how important good design is to a project.  The goal of Code for BTV is to make the systems that surround us work better for all of us.  If you can take a good thing and make it better, then we need your help.  
+ 
+* **Advocates and Evangilists**  
+Sadly, just because we build it doesn't mean anyone will come.  For our effort to have an impact, our projects need to be visible to both the people who will benefit from them, and the people who are in a position to recommend them.  We need people to help our stuff be used, adopted, and maybe even redistributed to other brigades across the country.  
+ 
+* **Governments and Non-Profits**  
+We need to know what our community needs and we need stewards to share ownership of the projects.  If you work with government or an organization that wants to make the BTV area better for everyone, then we need your help.  
+ 
+* **Coders and Technologists**  
+You are where the rubber hits the road on most of our projects.  Come work with us and learn some new tools and try out some new skills.  It's going to be a lot of fun because you're not going at this alone - you'll have the benefit of all the skills seen above.  Let's build things the world really _needs_ \- we need your help!
 
-Outcomes can be measurably better.
+We've got a growing list of projects to look through on [our projects page][1].  Each page describes the project, it's state of completion and any current needs.  If you're a coder, the easiest entry point will be to introduce yourself to members of a project you're interested in by submitting a pull request for an outstanding issue.  If you're not sure how to jump in on a project, [email Micah][2] (he's our project delivery lead) and he'll get you rolling.
 
-Better can cost less.
+Our projects meet on their own schedules, but an easy way to get involved is to come to one of our monthly Coffee Shop-Talk nights.  They kick off with some social time to mingle, chat, and browse proposed projects that haven't gotten off the ground yet.  Then we make a cup of coffee (or seltzer, or just a handful of cheees and crackers) and hear about ongoing projects or needs the community has.  Some topics come from Code for BTV members, and others come from outside the brigade.  
 
-We can serve everyone with respect and dignity.
+## Join a Conversation
 
-**It would be the biggest source of societal good for a generation. Let's all build it together.**
+We keep the conversation going between meetups on Slack.  Generally, [each project][1] and proposal has its own slack channel so it's easy to see what people are up to and if it's something you want to join.  There is also a [#project-chatter][3] channel where general discussion takes place.  If you haven't used Slack before, it's easy – just [request and invitation here][4] and you'll receive an email with more directions.
 
+## If You're Still Looking for Something Else...
 
+You can always contact our brigade captains directly.  If you have other kinds of questions, [James Lockridge][5] and [Nick Floersch][6] can probably help you out.
 
-**Move away from finite digital projects**
-Civic-tech organizations can often view their mission in much the same way they would a building project. It is
-a one off, finite cost, followed by a small amount of maintenance. We believe organisations should view digital as more like a garden. It is something that
-needs to be nurtured, developed and grown on a continual basis. It needs a continuous improvement model. The metrics must be focused on outcomes, not inputs. Forget about the technology or the content. Focus on the user and measure success on an ongoing basis based on whether the user is successful or not in doing what they came to do.
+[1]: https://opensavannah.org/project-list
+[2]: mailto:carl@opensavannah.org?subject=I'm%20looking%20for%20an%Open%20Savannah%20BTV%20project
+[3]: http://slack.opensavannah.org
+[4]: http://slack.opensavannah.org
+[5]: mailto:aaron@opensavannah.org?subject=Getting%20Started%20with%20Open%20Savannah
+[6]: mailto:brian@opensavannah.org?subject=Getting%20Started%20with%20Open%20Savannah
 
-**Real change happens outside the command line**.
-If we spend all our time building projects behind the glare of a screen, how will we ever expect to affect meaningful change in the community? Yes, we believe technology, open (and linked) data, design and locality knowledge are modes for civic empowerment and change, but no single app alone is going to lead to catalytic change of the status quo.
-
-**The big thing about small things is that they add up.** 
-The usability, accessibility, and efficiency of government services is more than the sum of its parts. Wonky pagination on a webform to apply for a business license may seem like a trivial matter, but it very well could prevent the creation of hundreds of new local jobs by being just a high enough barrier to entry for a would-be entrepreneur to build the next great local business.
-
-**Focus on the strength of our Core Team**.
-Sustainability requires more than one or two key leaders. It requires an ecocsytem of 
-
-**Process before Product**.
-
-**Listen to users, then engage in dialogue with them**. 
-
-**Only worry about security for open data apps if and when it has been shown to be an issue**.
-
-**Blame the system, not the person.**
-
-**We are the change we've been waiting for.**
-
-**Teaching technology is easy. Teaching empathy is not.**
-
-**Locality knowledge is the most important and valuable type of data**
-The knowledge that everyday residents have about their neighborhoods is the sort of interpersonal data that not even 'big data' companies have a way to tap into often. 
-
-**Information + invitation = participation.**
-
-
-**Open data is valuable, but open, linked data is more valuable**.
-
-
-2. **Change starts at the local level.** Starting with Savannah and Chatham County lets us connect directly with users and allows us to impact people’s lives faster.&nbsp;
-3. **We envision local government as transcending municipal borders**. The City of Savannah and Chatham County exist as interconnected, interdependent and merely abstract places whose borders lead to tribalism, infighting and inefficiency. To us, 'Savannah' doesn't just refer to the area within the city limits; it refers to the broader sense of place with which all 540,000 Coastal Georgians identify as a region. Likewise, we think that unity, collaboration, and city-county consolidation are necessary for the future of Savannah.
-4. **We believe that economic development happens from the bottom-up first.**No amount of recruitment of major companies to the region and no amount of jobs created alone can create broad-based prosperity. To fix poverty, we must start with the source,**&nbsp;**which means confronting thorny issues such as the digital divide, the continued effects of racial segregation on community stratification and how new development projects impact the incumbents of our community.
-5. **We strive for impact at scale.** The two biggest levers for improving people’s lives at scale are technology and government–we put them together, to solve some of America’s biggest challenges.
-6. **We first create *incremental* change by doing**. We make the change we want to see real as fast as possible, building visible product, and building trust and buy-in as we deliver results. (The strategy is delivery? Show the thing?)
-7. **We then create *catalytic* change through advocacy and collective action**. We aim to make *civics* sexy again. Civic illiteracy is a byproduct of cynicism, and is self-defeating in nature. We believe that by educating the public better as to how they can influence power as citizens in a democracy through their actions and their votes, we can change with the machinery of politics.
-8. **We show up**. All of civics is about 'who decides.' We believe that decisions are made by those show up. So, to bring the change we want locally, we show up – at council meetings, neighborhood associations, public forums and more. We reject the idea that we can change systemic cultural norms by sitting behind the glow of a computer screen.
-9. **We believe in listening before building.**. Too often, civic innovation builds solutions for problems that aren't actually problems. We believe that to achieve change at scale and foster broad-based collective action, we must first *listen* to the needs of all citizens.
-10. **We put process before product**. We use technology, design, open data, art and locality knowledge merely as *modes* for our end goal: civic empowerment. It is about the process of civic empowerment, not the product of civic-technology. If the application of civic-tech fails to empower citizens in a way that spurs action, it might as well fail to work altogether.
-11. **We believe that government is bigger than politics**. Politics and hyperpartisanship has perverted much of our collective view of government. But government is not the same as politics.
-12. **We meet user needs**. We must also take care of government needs, like various forms of compliance, in order to do our work, but we privilege user needs, articulated through research with real people to understand their experiences, and ensure that services are designed to work for them.
-13. **We are continuously improving**. We start small and get a working product into people's hands as early as possible, test with users frequently, and make continuous improvements based on feedback. (this could fall in with meet user needs). Every product remains perpetually in *beta*.
-14. **We work in the open**. We build open source technology, we invite participation and feedback, and we share what we are learning along the way. While we always lean towards open, we are pragmatic enough to adopt a proprietary approach when it supports the safety of our users, or the outcomes that we seek.
-15. **We support public servants to serve the public.** The choice to work in government is often a selfless one. We honor and those who work hard help people in their communities through government. Our job is to help them do that better, not here to replace them. We don't view bureaucracy ipso facto as a bad thing.
-16. **Government should work for *all* Coastal Georgia residents**, not just those with access to power and resources. We define “citizen” as someone who shows up for their community, not by legal status.
-17. **Our organization and our community should reflect the diversity of the country.** The problems we face cannot be solved unless a greater number and diversity of people become involved in civic life and have input into critical community issues.
-18. **Government as a platform means working with a diverse ecosystem of partners and contributors** – We partner with community based organizations and government institutions that have the expertise in the challenges that we are trying to solve, we know that we can't do this alone, and that we are stronger together.
-19. **We believe in the strength of our local democratic institutions, and reject the notion that 'things will never change.'**The moment we begin to give in to the status quo is the moment we lose collective agency. We can't fix government without first fixing citizenship.
-20. **We believe in the power of open data not only to make government more efficient, but to democratize our democracy.&nbsp;**Open, linked data holds a range of benefits to everyone if used properly and made accessible to residents. Access to truth through data is knowledge. Knowledge is power.
-21. **We offer up our hands, not just our voices.**It's easy to complain about our local officials on Facebook. It's harder, however, to offer up our skills and seek to create the change we wish to see.&nbsp;
-22. **We meet people where they are.&nbsp;**To engage in meaningful dialogue with the entire Savannah community, we must consciously seek to communicate on the platforms and in the physical spaces citizens know and frequent most. We don't believe putting code on GitHub can, in itself, have broad-based impact
-
-**We help local government work for the people who need it most** – We focus on improving services for the most vulnerable in our society and in restoring civic trust in an era of record cynicism.
-
-## We are Open Savannah.
+  
