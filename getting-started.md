@@ -1,7 +1,7 @@
 ---
 title: Get Started With Open Savannah
 layout: default
-permalink: /get-started/
+permalink: /getting-started/
 ---
 
 # Getting Started with Open Savannah
