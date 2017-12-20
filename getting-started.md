@@ -8,13 +8,13 @@ permalink: /getting-started/
 
 ## We Need Your Help
 
-No matter what your background is, we would love to put it to use!  Code for BTV isn't just about building software, we're making our community work better, and that means we need help from everyone:
+No matter what your background is, we would love to put it to use! Open Savannah isn't just about building software, we're making our community work better, and that means we need help from everyone:
 
 * **Subject-Matter Experts and Passionate People**  
 The people building technology solutions usually are not experts in the field.  Whether your professional experience matches up with our projects, or whether you just have an interest that you're willing to pursue further than most, if you are willing to dig in deep and provide context and guidance to our developers then we need your help.  
  
 * **Project Managers and Problem Solvers**  
-Any project that is going to have an impact needs someone to set the course and clear the hurdles.  If you have a gift for seeing the big picture and tackling problems before they reach you, then you have a place with Code for BTV.  
+Any project that is going to have an impact needs someone to set the course and clear the hurdles.  If you have a gift for seeing the big picture and tackling problems before they reach you, then you have a place with Open Savannah.  
  
 * **Designers and User Experience**  
 If you have an aesthetic eye and an understanding of why people make the decisions they do, then you know how important good design is to a project.  The goal of Code for BTV is to make the systems that surround us work better for all of us.  If you can take a good thing and make it better, then we need your help.  
@@ -28,17 +28,17 @@ We need to know what our community needs and we need stewards to share ownership
 * **Coders and Technologists**  
 You are where the rubber hits the road on most of our projects.  Come work with us and learn some new tools and try out some new skills.  It's going to be a lot of fun because you're not going at this alone - you'll have the benefit of all the skills seen above.  Let's build things the world really _needs_ \- we need your help!
 
-We've got a growing list of projects to look through on [our projects page][1].  Each page describes the project, it's state of completion and any current needs.  If you're a coder, the easiest entry point will be to introduce yourself to members of a project you're interested in by submitting a pull request for an outstanding issue.  If you're not sure how to jump in on a project, [email Micah][2] (he's our project delivery lead) and he'll get you rolling.
+We've got a growing list of projects to look through on [our projects page][1].  Each page describes the project, it's state of completion and any current needs.  If you're a coder, the easiest entry point will be to introduce yourself to members of a project you're interested in by submitting a pull request for an outstanding issue.  If you're not sure how to jump in on a project, [email Gary][2] (he's our project delivery lead) and he'll get you rolling.
 
 Our projects meet on their own schedules, but an easy way to get involved is to come to one of our monthly Coffee Shop-Talk nights.  They kick off with some social time to mingle, chat, and browse proposed projects that haven't gotten off the ground yet.  Then we make a cup of coffee (or seltzer, or just a handful of cheees and crackers) and hear about ongoing projects or needs the community has.  Some topics come from Code for BTV members, and others come from outside the brigade.  
 
 ## Join a Conversation
 
-We keep the conversation going between meetups on Slack.  Generally, [each project][1] and proposal has its own slack channel so it's easy to see what people are up to and if it's something you want to join.  There is also a [#project-chatter][3] channel where general discussion takes place.  If you haven't used Slack before, it's easy – just [request and invitation here][4] and you'll receive an email with more directions.
+We keep the conversation going between meetups on Slack.  Generally, [each project][1] and proposal has its own slack channel so it's easy to see what people are up to and if it's something you want to join.  There is also a [#project-chatter][3] channel where general discussion takes place.  If you haven't used Slack before, it's easy – just [request an invitation here][4] and you'll receive an email with more directions.
 
 ## If You're Still Looking for Something Else...
 
-You can always contact our brigade captains directly.  If you have other kinds of questions, [James Lockridge][5] and [Nick Floersch][6] can probably help you out.
+You can always contact our brigade captains directly. If you have other kinds of questions, [James Lockridge][5] and [Nick Floersch][6] can probably help you out.
 
 [1]: https://opensavannah.org/project-list
 [2]: mailto:carl@opensavannah.org?subject=I'm%20looking%20for%20an%Open%20Savannah%20BTV%20project
