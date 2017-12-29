@@ -5,4 +5,4 @@ layout: default
 permalink: /what-we-do/
 ---
 
-{% include about/connecting.html %}
+{% include special/whitakercyclistinjuries.html %}
