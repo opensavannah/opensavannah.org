@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Events</title>
+  <title>Webscraping with R</title>
   <meta name="description" content="We are a local brigade of Code for America committed to making government work better in Greater Savannah.">
   <link rel="icon" href="/images/favicon.ico">
 
@@ -112,18 +112,80 @@
 
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h2>Events</h2>
-            <h2>When We Meet</h2>
-<p>Open Savannah regularly meets to discuss community ideas, work on civic tech projects and launch new projects into the wild. The fine folks at <a href="http://bullstreetlabs.com">Bull St. Labs</a> generously let us use their space to meet and hold events.</p>
-<p>We hold two main types of regular events:</p>
-<li><strong>Open Civic Hacknights:</strong> - Held biweekly on the second and fourth Wednesday of each month at Bull Street Labs, Open Civic Hacknights act as a way for us to regularly brainstorm, collaborate, work on ongoing projects, get to know each other and establish a recurring, unstructured time to meet. These are more casual, informal meetups.</li>
-<li><strong>Community Idea Launchpads:</strong> - Held roughly once a month, these are larger, more community-wide evets that involve stakeholders from a wide sectors of disciplines who come together for a single evening for a 'mini-hacknight' to produce a civic app by the end of the event.</li>
-<br/>
-<blockquote class="embedly-card" data-card-key="e9a93e35d2dd4e7b98676f1c4746bfc3" data-card-branding="0"><h4><a href="https://www.meetup.com/OpenSavannah/events/241867891/">Community Idea Launchpad: SavMaps</a></h4><p>Data on local social service programs and community resources can often be hard to locate - especially for those in need of aid and their case workers. While literally hundreds of different organizati</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+            <h2>Webscraping with R</h2>
+            <p>Jan 31, 2015 • Jonathan Boiser</p>
 
-<blockquote class="embedly-card" data-card-key="e9a93e35d2dd4e7b98676f1c4746bfc3" data-card-branding="0" data-card-type="article"><h4><a href="https://www.meetup.com/OpenSavannah/events">Calendar - Open Savannah, a Code for America Brigade (Savannah, GA) | Meetup</a></h4><p>LEARN MORE ABOUT OPEN SAVANNAH ON OUR HOMEPAGE Open Savannah is a newly-formed local brigade of Code for America. We are a diverse and inclusive group of local civic technologists, designers, data g</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<p>At the last meetup, Adam Kalsey gave a great presentation on scraping data from the web, illustrating the ideas with his beer-loving Twitterbot <a href="http://twitter.com/sactaps">@sactaps</a>. In this tutorial, I will show you how to scrape data from the web in R using the <code>rvest</code> package <a href="http://github.com/hadley/rvest">Github link</a>.</p>
+
+<p><em>(Warning: This tutorial involves browsing to websites advertising the sale of beer. If you are not of legal drinking age, please try this tutorial with other age-appropriate websites. Thanks!)</em></p>
+
+<h3 id="installing-rvest-and-selectorgadget">Installing <code>rvest</code> and SelectorGadget</h3>
+
+<p>If you haven’t used R before, go ahead and download the R runtime and the RStudio Integrated Development Environment. We won’t cover the basics of using RStudio, but there are plenty of resources for getting started. All of the code below can be entered directly in the console, or in the text editor (and then executed using Cmd/Ctrl-Enter).</p>
+
+<p>Currently, <code>rvest</code> is not available on CRAN, the official repository of R packages. You will need to download the source code directly from the GitHub repository.</p>
+
+<p><code>
+# if you do not have it already, install the devtools package
+install.packages("devtools")
+devtools::install_github("hadley/rvest")
+library(rvest)
+</code></p>
+
+<p>Another helpful tool you will want to install is the <a href="http://selectorgadget.com/">SelectorGadget</a> Chrome extension, which makes it a lot easier to get the CSS selectors for webpage elements (compared to using “Inspect Element” and looking at the source code).</p>
+
+<h3 id="finding-the-right-css-selectors">Finding the right CSS selectors</h3>
+
+<p>Although Adam’s talk focused on using the XPath and YQL query languages, in many cases we can locate useful data based on their CSS selectors, especially when the webpage uses semantic tag attributes.</p>
+
+<p>Our first stop on our cyber pub crawl is to the Capitol Tap Room (<a href="http://capitolbeer.com/on-tap/">link</a>). Here’s a screenshot of the tap list:</p>
+
+<p><img src="/images/screenshots/capitol_taproom.png" alt="" /></p>
+
+<p>If you have SelectorGadget installed, click the magnifying glass to the right of the Address Bar, where your other Chrome extensions might be. With the extension activated, when you hover different elements on the webpage, they will be highlighted. Try clicking different things to see what happens. Make note of the gray bar on the bottom right.</p>
+
+<p>Now, very carefully, hover your mouse around the bottom of the tap list until the entire box is highlighted:</p>
+
+<p><img src="/images/screenshots/capitol_taplist_div.png" alt="" /></p>
+
+<p>In the gray bar, you will see it read <code>#on-tap</code>. What this is telling us is that the highlighted object is an HTML element (probably a <code>div</code>) with <code>id="on-tap"</code>. Now, if we were to try scraping this, we would get all of the HTML for the <code>div</code>. Preferably, we would like to get the different beers separated out. So let’s see if we can narrow things down to the individual beer names.</p>
+
+<p>Press the “Clear” button on the gray bottom to clear your selection. Now, try hovering over the beer names until it highlights the smallest box around the text:</p>
+
+<p><img src="/images/screenshots/capitol_beername.png" alt="" /></p>
+
+<p>I couldn’t capture it on the screenshot, but SelectorGadget is telling me that the beer names are <code>h3</code> elements (which also has a <code>.left</code> class). (This isn’t very semantic at all!) And simply selecting <code>h3</code>s won’t be precise enought: there are over 100 <code>h3</code> elements on this page, and not all of them are the beers on tap. But because we know these are encased in the <code>div#on-tap</code> element, we can manually target these. Clear the query in the gray box and enter: <code>div#on-tap h3</code>. Now all of the beer names in the “On Tap” section will be highlighted. As an exercise, trying writing a similar query that will grab the names of the bottles for sale (below the tap list).</p>
+
+<h3 id="grabbing-the-data-in-r">Grabbing the data in R</h3>
+
+<p>Now that we have some idea of what we should be querying off the webpage, let’s go into R. Enter these commands in the console:</p>
+
+<p><code>
+page &lt;- rvest::html("http://capitolbeer.com/on-tap/")
+beers_html &lt;- rvest::html_nodes(x = page, css = "div#on-tap h3")
+head(beers_html) # prints the html to the console
+rvest::html_text(beers_html, trim = TRUE) # gets the text inside the tags and cleans up the whitespace characters
+</code></p>
+
+<p>Here’s what you should see after the last command:
+<code>
+[1] "Two Rivers Huckleberry Cider"                      "Evil Twin Freudian Slip Barleywine"
+[3] "Bike Dog Mosaic Pale Ale"                          "Wildcard 2nd Anniversary BBA Porter"
+[5] "Mraz Winter  IPA"                                  "Wildcard Liar’s Dice IPA"
+[7] "Avery duganA Double IPA"                           "Warped Clear The Flag Rye Persimmon Ale"
+[9] "Wildcard Reason For The Season Coffee Cream Stout" "Dogfish Head Beer Thousand Imperial Pilsner"
+[11] "Wildcard Grade A Maple Brown"                      "Stillwater As Follows Golden Strong"
+[13] "Wildcard 530 Hometown Ale"                         "Oskar Blues Icey PA Wheat Pale Ale"
+[15] "Eel River Acai Berry Wheat"                        "St. Bernardus ABT 12 Quad"
+[17] "Duchesse de Bourgogne Flemish Red"                 "Six Rivers Raspberry Lambic"
+[19] "Woodfour Berliner Weisse"                          "Berryessa Rye Ryerish Dry Stout (Nitro)"
+</code></p>
+
+<p>Very cool. The <code>rvest</code> functions also allow querying using XPath syntax, which was what Adam was covering. Scraping the data would then be the first step for doing interesting things with the data in R or some other programming language.</p>
+
+<p>Give it a try with Capitol Tap Room’s site (extra credit for trying other beer websites) and drop by at our weekly meetings if you have cool webscraping ideas you want to work on!</p>
+
+
           </div>
         </div>
 

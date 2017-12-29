@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Events</title>
+  <title>Water you talking about?</title>
   <meta name="description" content="We are a local brigade of Code for America committed to making government work better in Greater Savannah.">
   <link rel="icon" href="/images/favicon.ico">
 
@@ -112,18 +112,41 @@
 
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h2>Events</h2>
-            <h2>When We Meet</h2>
-<p>Open Savannah regularly meets to discuss community ideas, work on civic tech projects and launch new projects into the wild. The fine folks at <a href="http://bullstreetlabs.com">Bull St. Labs</a> generously let us use their space to meet and hold events.</p>
-<p>We hold two main types of regular events:</p>
-<li><strong>Open Civic Hacknights:</strong> - Held biweekly on the second and fourth Wednesday of each month at Bull Street Labs, Open Civic Hacknights act as a way for us to regularly brainstorm, collaborate, work on ongoing projects, get to know each other and establish a recurring, unstructured time to meet. These are more casual, informal meetups.</li>
-<li><strong>Community Idea Launchpads:</strong> - Held roughly once a month, these are larger, more community-wide evets that involve stakeholders from a wide sectors of disciplines who come together for a single evening for a 'mini-hacknight' to produce a civic app by the end of the event.</li>
-<br/>
-<blockquote class="embedly-card" data-card-key="e9a93e35d2dd4e7b98676f1c4746bfc3" data-card-branding="0"><h4><a href="https://www.meetup.com/OpenSavannah/events/241867891/">Community Idea Launchpad: SavMaps</a></h4><p>Data on local social service programs and community resources can often be hard to locate - especially for those in need of aid and their case workers. While literally hundreds of different organizati</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+            <h2>Water you talking about?</h2>
+            <p>Oct 4, 2014 • Elizabeth Case</p>
 
-<blockquote class="embedly-card" data-card-key="e9a93e35d2dd4e7b98676f1c4746bfc3" data-card-branding="0" data-card-type="article"><h4><a href="https://www.meetup.com/OpenSavannah/events">Calendar - Open Savannah, a Code for America Brigade (Savannah, GA) | Meetup</a></h4><p>LEARN MORE ABOUT OPEN SAVANNAH ON OUR HOMEPAGE Open Savannah is a newly-formed local brigade of Code for America. We are a diverse and inclusive group of local civic technologists, designers, data g</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<p>As we move into the fourth year of drought, water has become California’s hottest topic: cities ration water supplies (<a href="http://www.nytimes.com/2014/10/03/us/california-drought-tulare-county.html?_r=0">and some areas have run out entirely</a>) and farmers drill deep into the earth to save their fields and orchards. The state passed both a $7.1 billion water bond and California’s<a href="http://www.sacbee.com/2014/09/16/6711717/video-jerry-brown-signs-groundwater.html"> first groundwater management package.</a></p>
+
+<p>But there’s not a whole lot of easily accessible, clean information out there: a one-stop water shop to parch our curiosity, especially when it comes to wells and groundwater.</p>
+
+<p>So Code 4 Sac has been working on a groundwater project with Laci (lah-tsi) Videmsky (@videmsky) of the <a href="http://ca.statewater.org/">New California Water Atlas</a> (NCWA), a grant-funded initiative to centralize smart, interactive water data. It’s based of the original California Water Atlas, a massive tome published in 1979 when, yes, Gerry Brown was governor for the first time and the state had just emerged from the ’76-’77 drought. Take a minute to check it out.</p>
+
+<p>*1, 2, 3… 60 seconds later*</p>
+
+<p>Pretty amazing, eh?</p>
+
+<p>CA’s Department of Water Resources has a lot of data gathered from wells over the year – location, historical surface-to-water values, etc. We wanted to take that data and make it useful: how have the wells in your county or water basin fared over time? Has this drought impacted your city or farm’s ability to get water, and are others near you suffering the as well?</p>
+
+<p>But the DWR site proved extremely hard to scrape and, as it turns out, is a woefully incomplete package (more on that later). Fortunately, Laci already had the history of about some 32,000 wells on hand — he’d received a dump from the department, after running up against the same problems we did.</p>
+
+<p>We brainstormed a bit on initial design, but quickly realized that the surface-to-water levels for every single well wasn’t actually that helpful — wells fluctuate significantly by season (high during the wet months, low during dry months). We needed trends: is the water level increasing on average, or decreasing?</p>
+
+<p>Laci worked a trade out with his wife: linear regression of the well data for some rasterization of crop images. Now we’ve got gold** to work with.</p>
+
+<p>** Maybe fools gold: turns out, even though it’s mandated, there are a whole lot of wells dug that never get reported.</p>
+
+<p>Nevertheless, it’s much more than we had to start with. Laci drove up from Berkeley on Wednesday (after teaching a 4(!) hour class, bravo!) and met with us to brainstorm the second iteration of the well data.</p>
+
+<p>He’d already found some interesting (read: sad) information: Only about 13.5% of the wells — ~5,000/~37,000  – had enough data to qualify (more than 4 years of records). Many of the ones that didn’t qualify had no historical readings whatsoever. Here’s a teaser (grey + black mean insufficient data)</p>
+
+<p><a href="../images/posts/Screen-Shot-2014-10-04-at-10.35.51-AM.png"><img class="size-medium wp-image-754 aligncenter" src="../images/posts/Screen-Shot-2014-10-04-at-10.35.51-AM-300x221.png" alt="Screen Shot 2014-10-04 at 10.35.51 AM" width="300" height="221" /></a></p>
+
+<p>But information is information, and we’ve decided on a couple of goals to shoot for: be able to select well based on type (data/no data + declining/inclining water levels) and location (county/water basin).</p>
+
+<p>We’re really excited to get this project off the ground (and into the cloud, haha, okay). Volunteer superstar Kari Mah (@kari_mah) has pledged her skills, and we’d love for you to join us too.</p>
+
+
+
           </div>
         </div>
 
