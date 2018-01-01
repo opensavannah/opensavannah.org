@@ -17,13 +17,13 @@ The people building technology solutions usually are not experts in the field.  
 Any project that is going to have an impact needs someone to set the course and clear the hurdles.  If you have a gift for seeing the big picture and tackling problems before they reach you, then you have a place with Open Savannah.  
  
 * **Designers and User Experience**  
-If you have an aesthetic eye and an understanding of why people make the decisions they do, then you know how important good design is to a project.  The goal of Code for BTV is to make the systems that surround us work better for all of us.  If you can take a good thing and make it better, then we need your help.  
+If you have an aesthetic eye and an understanding of why people make the decisions they do, then you know how important good design is to a project.  The goal of Open Savannah is to make the systems that surround us work better for all of us.  If you can take a good thing and make it better, then we need your help.  
  
 * **Advocates and Evangilists**  
 Sadly, just because we build it doesn't mean anyone will come.  For our effort to have an impact, our projects need to be visible to both the people who will benefit from them, and the people who are in a position to recommend them.  We need people to help our stuff be used, adopted, and maybe even redistributed to other brigades across the country.  
  
 * **Governments and Non-Profits**  
-We need to know what our community needs and we need stewards to share ownership of the projects.  If you work with government or an organization that wants to make the BTV area better for everyone, then we need your help.  
+We need to know what our community needs and we need stewards to share ownership of the projects.  If you work with government or an organization that wants to make the Savannah area better for everyone, then we need your help.  
  
 * **Coders and Technologists**  
 You are where the rubber hits the road on most of our projects.  Come work with us and learn some new tools and try out some new skills.  It's going to be a lot of fun because you're not going at this alone - you'll have the benefit of all the skills seen above.  Let's build things the world really _needs_ \- we need your help!
@@ -41,7 +41,7 @@ We keep the conversation going between meetups on Slack.  Generally, [each proje
 You can always contact our brigade captains directly. If you have other kinds of questions, [Carl V. Lewis][5] and [Aaron Pompei][6] can probably help you out.
 
 [1]: https://opensavannah.org/project-list
-[2]: mailto:gary@opensavannah.org?subject=I'm%20looking%20for%20an%Open%20Savannah%20BTV%20project
+[2]: mailto:gary@opensavannah.org?subject=I'm%20looking%20for%20an%Open%20Savannah%20project
 [3]: http://slack.opensavannah.org
 [4]: http://slack.opensavannah.org
 [5]: mailto:carl@opensavannah.org?subject=Getting%20Started%20with%20Open%20Savannah
