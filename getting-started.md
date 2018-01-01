@@ -4,7 +4,6 @@ layout: default
 permalink: /getting-started/
 ---
 
-# Getting Started with Open Savannah
 
 ## We Need Your Help
 
