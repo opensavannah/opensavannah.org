@@ -3,10 +3,7 @@ title: Open Savannah Diversity Statement
 layout: default
 permalink: /diversity-statement/
 ---
-# Proposed: 2018 Diversity Statement
 
-# Draft: Diversity Statement, 2018
-## Open Savannah
 
 Platitudes are cheap. We've all heard organizations say they're committed to "diversity" and "tolerance" without ever getting specific, so here's Open Savannah's stance on it:
 
