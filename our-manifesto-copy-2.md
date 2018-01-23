@@ -1,5 +1,5 @@
 ---
-title: Our Manifesto
+title: Open Savannah Diversity Statement
 layout: default
 permalink: /diversity-statement/
 ---
