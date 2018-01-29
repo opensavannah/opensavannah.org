@@ -1,4 +1,8 @@
-
+---
+title: On Diversity and Digital Equity
+layout: default
+permalink: /diversity-inclusion/
+---
 
 Platitudes are cheap. We've all heard organizations say they're committed to "diversity" and "tolerance" without ever getting specific, so here's Open Savannah's stance on it:
 
