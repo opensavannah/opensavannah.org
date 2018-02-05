@@ -8,7 +8,7 @@ The following docunent details both the operating principles of our parent organ
 
 # Our vision, mission, values, and operating principles
 
-**Government can work for the people, by the people, in the digital age.**
+**LOcal xGovernment can work for the people, by the people, in the digital age.**
 
 Services can be simple, accessible, and easy to use.
 
