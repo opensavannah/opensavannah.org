@@ -9,7 +9,7 @@ permalink: /contact/
 
 <hr />
 
-##Stay up to date
+<h2> Stay up to date</h2>
 <!-- Begin MailChimp Signup Form -->
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
