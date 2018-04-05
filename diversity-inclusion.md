@@ -1,5 +1,6 @@
 ---
 title: On Diversity and Digital Equity
+author: Open Savannah
 layout: default
 permalink: /diversity-inclusion/
 ---
