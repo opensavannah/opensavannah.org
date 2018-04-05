@@ -5,11 +5,12 @@ layout: default
 permalink: /contact/
 ---
 
-<h3>[Email](mailto:carl@opensavannah.org) &#124; [Twitter](https://twitter.com/open_savannah) &#124; [Meetup](http://www.meetup.com/opensavannah/)</h3>
+## [Email](mailto:carl@opensavannah.org) &#124; [Twitter](https://twitter.com/open_savannah) &#124; [Meetup](http://www.meetup.com/opensavannah/)</h3>
 
 <hr />
 
-<h2> Stay up to date</h2>
+### Stay up to date
+
 <!-- Begin MailChimp Signup Form -->
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
