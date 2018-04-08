@@ -6,7 +6,7 @@ permalink: /getting-started/
 
 ## We Need Your Help
 
-![](/uploads/no-one-is-coming-transparent.png){:width="200px"}
+![](/uploads/no-one-is-coming-transparent.png){:width="300px"}
 
 No matter what your background is, we would love to put it to use! Open Savannah isn't just about building software; we're making our community work better, and that means we need help from everyone:
 
