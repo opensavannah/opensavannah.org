@@ -32,7 +32,8 @@
 - name: Coco Papy
   title: 'Program Manager, The Creative Coast.'
   headshot: coco-papy.jpg
-  bio:
+  bio: >-
+    Coco Papy is a community organizer and native Savannahian. As the Community Director of The Creative Coast, she works to grow the creative and living wage economy in Savannah through the intersection of tech, innovation, small business and entrepreneurship.  She is involved in numerous groups in Savannah and the state of Georgia, including serving on the Savannah Cultural Affairs Commission, a member of the Planned Parenthood advisory committee, President of the Twickenham Neighborhood Association. She is a Step-Up Savannah Neighborhood Leadership Academy graduate, a PEN America Prison Writing Fellow and a Highlander Education Center Greensboro Justice Fellow. Most recently, she is a graduate of the Georgia Win List Leadership Academy, a political action committee dedicated to changing the face of power in Georgia by recruiting, training, supporting, and electing women who will serve as advocates in Georgia. 
   email: coco@thecreativecoast.org
   twitter: creativecoast
   github:
