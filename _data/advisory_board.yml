@@ -1,18 +1,3 @@
-- name: Kevin Lawver
-  title: 'CTO, Planted. Community Organizer,'
-  headshot: kevin_lawver.jpg
-  bio: >-
-    Kevin Lawver is the Chief Technical Officer at Planted, where he helps 
-    connect people with jobs at startups using code. He’s the co-founder of
-    TechSAV,  Open organizer of the local RailsBridge chapter, runs Refresh
-    Savannah, helps out where he can, advises startups  on all kinds of stuff,
-    and likes to bake. He believes citizens should have apps to oversee and 
-    utilize the services of *their* government that are just as good as apps for
-    managing your household budget.
-  email: kevin@lawver.net
-  twitter: kplawver
-  github: kplawver
-  linkedin: 'https://www.linkedin.com/in/kplawver'
 - name: Saja Aures
   title: 'Public Information and Open Data Administrator, City of Savannah'
   headshot: saures_headshot.jpg
@@ -29,6 +14,21 @@
   twitter: sajaaures
   github:
   linkedin: 'https://www.linkedin.com/in/sajaaures'
+- name: Kevin Lawver
+  title: 'CTO, Planted. Community Organizer,'
+  headshot: kevin_lawver.jpg
+  bio: >-
+    Kevin Lawver is the Chief Technical Officer at Planted, where he helps 
+    connect people with jobs at startups using code. He’s the co-founder of
+    TechSAV,  Open organizer of the local RailsBridge chapter, runs Refresh
+    Savannah, helps out where he can, advises startups  on all kinds of stuff,
+    and likes to bake. He believes citizens should have apps to oversee and 
+    utilize the services of *their* government that are just as good as apps for
+    managing your household budget.
+  email: kevin@lawver.net
+  twitter: kplawver
+  github: kplawver
+  linkedin: 'https://www.linkedin.com/in/kplawver'
 - name: Coco Papy
   title: 'Community Director, The Creative Coast'
   headshot: coco-papy.jpg
