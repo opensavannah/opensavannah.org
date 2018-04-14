@@ -57,18 +57,6 @@
   twitter:
   github:
   linkedin: 'https://www.linkedin.com/in/nickhelmholdt'
-- name: Nick Helmholdt
-  title: Local Government Liason
-  headshot: nickhelmholdt.jpg
-  bio: >-
-    Nick is a planner at the Chatham County-Savannah Metropolitan Planning
-    Commission where he focuses on long range and  natural resource issues.  He
-    sees open data as an essential element to help solve problems within local
-    government.
-  email: nhelmholdt@thempc.org
-  twitter: nhelmholdt
-  github:
-  linkedin: 'https://www.linkedin.com/in/nickhelmholdt'
 - name: Brian Young
   title: Technology Lead
   headshot: brianyoung.jpg
@@ -138,9 +126,3 @@
   email: patrick@opensavannah.org
   twitter: PI_Bentley
   linkedin: 'https://www.linkedin.com/in/patrickbentley'
-- name: This Could Be You
-  title: Amazing Leader
-  headshot: 'https://cvlassets.s3.amazonaws.com/logo%20(2).png'
-  bio: >-
-    You can be part of our Core Leadership team and be awesome. We currently
-    have two (2) available positions.
