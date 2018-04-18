@@ -37,7 +37,7 @@ The knowledge that everyday residents have about their neighborhoods is the sort
 
 `Information + invitation = participation. `
 
-This is our most distilled theory of change. We believe that information is power, and invitation turns power into action, which leads to co-powerment throgh participation in collective action.
+This is our most distilled theory of change. We believe that information is power, and invitation turns power into action, which leads to *co-powerment* through participation in collective action.
 
 **We help local government work for the people who need it most** – We focus on improving services for the most vulnerable in our society and in restoring civic trust in an era of record cynicism.
 
