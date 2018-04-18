@@ -33,7 +33,9 @@ The usability, accessibility, and efficiency of government services is more than
 **Locality knowledge is the most important and valuable type of data**
 The knowledge that everyday residents have about their neighborhoods is the sort of interpersonal data that not even 'big data' companies have a way to tap into often. 
 
-`*Information + invitation = participation.* `
+## Our formula for achieving our goals
+
+`Information + invitation = participation. `
 
 This is our most distilled theory of change. We believe that information is power, and invitation turns power into action, which leads to co-powerment throgh participation in collective action.
 
