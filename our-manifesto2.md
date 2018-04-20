@@ -1,7 +1,7 @@
 ---
 title: Our Manifesto
 layout: default
-permalink: /manifesto/
+permalink: /manifesto2/
 ---
 
 The following docunent details both the operating principles of our parent organization, Code for America, but also breaks down additional beliefs of Open Savannah.
