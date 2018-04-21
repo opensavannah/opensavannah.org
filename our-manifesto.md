@@ -1,7 +1,7 @@
 ---
 title: Our Manifesto
 layout: default
-permalink: /our-manifesto/
+permalink: /manifesto/
 ---
 
 # Our vision, mission, values, and operating principles
