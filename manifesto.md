@@ -1,8 +1,7 @@
 ---
 title: Our Manifesto
 layout: default
-author: Open Savannah
-permalink: /manifesto/
+permalink: /our-manifesto/
 ---
 
 # Our vision, mission, values, and operating principles
