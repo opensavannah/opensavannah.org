@@ -1,6 +1,7 @@
 ---
 title: Our Manifesto
 layout: default
+author: Open Savannah
 permalink: /manifesto/
 ---
 
