@@ -21,7 +21,7 @@ permalink: /our-manifesto
 
 **No one is coming... it's up to us.&nbsp;**As citizens in a democratic nation in which localism has taken on heightened importance in recent years, it's up to us to change our community and our country ... *all of us*. We can no longer depend upon the fourth estate, democratic norms, or financially-health municipal coffers to fall back on and retreat into apathy.&nbsp;&nbsp;
 
-**Move away from finite digital projects** Civic-tech organizations can often view their mission in much the same way they would a building project. It is a one off, finite cost, followed by a small amount of maintenance. We believe organisations should view digital as more like a garden. It is something that needs to be nurtured, developed and grown on a continual basis. It needs a continuous improvement model. The metrics must be focused on outcomes, not inputs. Forget about the technology or the content. Focus on the user and measure success on an ongoing basis based on whether the user is successful or not in doing what they came to do.
+**Move away from finite digital projects** Civic-tech organizations can often view their mission in much the same way they would a building project. It is a one off, finite cost, followed by a small amount of maintenance. We believe organizations should view digital as more like a garden. It is something that needs to be nurtured, developed and grown on a continual basis. It needs a continuous improvement model. The metrics must be focused on outcomes, not inputs. Forget about the technology or the content. Focus on the user and measure success on an ongoing basis based on whether the user is successful or not in doing what they came to do.
 
 **Process before product.**&nbsp;Too often, what we call 'technological solutionism' – the mistaken belief that technology alone can answer our world's biggest problems – manifests itself in communities of practice in the technology realm. *We don't think technology can solve all our problems, but we do think that technology wielded as a tool by an engaged and informed public can.*
 
@@ -37,8 +37,8 @@ permalink: /our-manifesto
 
 This is our most distilled theory of change. We believe that \`information\` is power, and \`invitation\` turns individual power into group participation, otherwise known as collective action.
 
-**We help local government work for the people who need it most** – We focus on improving services for the most vulnerable in our society and in restoring civic trust in an era of record cynicism. Sometimes, our work is a direct intervention, while more systemic issues often require tackling root causes in a more indirect fashion.&nbsp;
+**We help local government work for the people who need it most** – We focus on improving services for the most vulnerable in our society and in restoring civic trust in an era of record cynicism. Sometimes, our work takes the form of a direct intervention (i.e. specifically designing a system to make applying for social services easier), while more systemic issues often require tackling root causes in a more indirect fashion that creates the conditions for change (i.e.advocating for open data policy).
 
 ## We are Open Savannah.
 
-Est. 2017. Savannah, Ga. A part of the Code for America brigade network.
+Est. 2017, Savannah, Ga. A part of the Code for America brigade network.
