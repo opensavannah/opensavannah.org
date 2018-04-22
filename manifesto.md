@@ -4,7 +4,7 @@ layout: default
 permalink: /our-manifesto/
 ---
 
-# Our vision, mission, values, and operating principles
+<h2> Our vision, mission, values, and operating principles</h2>
 *Local government can work for the people, by the people, in the digital age.*
 
 Services can be simple, accessible, and easy to use.
