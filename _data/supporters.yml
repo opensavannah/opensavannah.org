@@ -1,12 +1,12 @@
-- name: Savannah Economic Development Authority
-  logo: seda-transparent.png
-  website: 'http://www.seda.org'
 - name: The Creative Coast
   logo: symsoft.png
   website: 'http://thecreativecoast.org/'
-- name: Code for America
-  logo: hacker_lab.png
-  website: 'http://codeforamerica.org/'
 - name: SmokeCartel
   logo: smokecartel.png
   website: 'http://smokecartel.com'
+- name: Code for America
+  logo: hacker_lab.png
+  website: 'http://codeforamerica.org/'
+- name: Savannah Economic Development Authority
+  logo: seda-transparent.png
+  website: 'http://www.seda.org'
