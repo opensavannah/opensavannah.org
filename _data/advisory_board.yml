@@ -33,19 +33,29 @@
   title: 'Community Director, The Creative Coast'
   headshot: coco-papy.jpg
   bio: >-
-    Coco Papy is a community organizer and native Savannahian. As the Community
-    Director of <a href="http://thecreativecoast.org">The Creative Coast</a>, she works to
-    grow the creative and living wage economy in Savannah through the
-    intersection of tech, innovation, small business and entrepreneurship.  She
-    is involved in numerous groups in Savannah and the state of Georgia,
-    including serving on the Savannah Cultural Affairs Commission, a member of
-    the Planned Parenthood advisory committee, President of the Twickenham
-    Neighborhood Association. She is a Step-Up Savannah Neighborhood Leadership
-    Academy graduate, a PEN America Prison Writing Fellow and a Highlander
-    Education Center Greensboro Justice Fellow. Most recently, she is a graduate
-    of the Georgia Win List Leadership Academy, a political action committee
-    dedicated to changing the face of power in Georgia by recruiting, training,
-    supporting, and electing women who will serve as advocates in Georgia.
+    Coco Papy is a community organizer and native Savannahian. As the Community Director of The Creative Coast, she works to grow the creative and living wage economy in Savannah through the intersection of tech, innovation, small business and entrepreneurship. She is involved in numerous groups in Savannah and the state of Georgia, including serving on the Savannah Cultural Affairs Commission, a member of the Planned Parenthood advisory committee, President of the Twickenham Neighborhood Association. She is a Step-Up Savannah Neighborhood Leadership Academy graduate, a PEN America Prison Writing Fellow and a Highlander Education Center Greensboro Justice Fellow. Most recently, she is a graduate of the Georgia Win List Leadership Academy, a political action committee dedicated to changing the face of power in Georgia by recruiting, training, supporting, and electing women who will serve as advocates in Georgia.
+
+  email: coco@thecreativecoast.org
+  twitter: creativecoast
+  github:
+  linkedin:
+  
+- name: Sean Geng
+  title: 'CEO, SmokeCartel'
+  headshot: coco-papy.jpg
+  bio: >-
+    Sean Geng is the co-founder and CEO of Smoke Cartel, a Savannah-based ecommerce startup that has grown from an idea to a widely-acclaimed publicly-traded venture in less than two years' time. His company, Smoke Cartel, is a popular online retailer and distributor of glassware and smokeware products. He is passionate about emerging technologies and developing industries, and how they can be used to improve society and reduce societal injustices. 
+
+
+  email: sean@smokecartel.com
+  twitter: smokecartel
+  github: seangeng
+  linkedin: 
+- name: Sean Weng
+  title: 'Founder/CEO, SmokeCartel'
+  headshot: coco-papy.jpg
+  bio: >-
+    
   email: coco@thecreativecoast.org
   twitter: creativecoast
   github:
