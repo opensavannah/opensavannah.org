@@ -31,6 +31,21 @@
   twitter: kplawver
   github: kplawver
   linkedin: 'https://www.linkedin.com/in/kplawver'
+- name: Sean Geng
+  title: 'CEO, SmokeCartel'
+  headshot: 'https://cvlewisassets.s3.amazonaws.com/sean-crop-2.jpg'
+  bio: >-
+    Sean Geng is the co-founder and CEO of <a
+    href="http://smokecartel.com">SmokeCartel</a>, a Savannah-based ecommerce
+    startup that has grown from an idea to a widely-acclaimed publicly-traded
+    venture in less than two years' time. His company, Smoke Cartel, is a
+    popular online retailer and distributor of glassware and smokeware products.
+    He is passionate about emerging technologies and developing industries, and
+    how they can be used to improve society and reduce societal injustices.
+  email: sean@smokecartel.com
+  twitter: smokecartel
+  github: seangeng
+  linkedin: 'https://www.linkedin.com/in/seangeng/'
 - name: Coco Papy
   title: 'Community Director, The Creative Coast'
   headshot: coco-papy.jpg
@@ -53,18 +68,3 @@
   twitter: creativecoast
   github: creativecoast
   linkedin:
-- name: Sean Geng
-  title: 'CEO, SmokeCartel'
-  headshot: 'https://cvlewisassets.s3.amazonaws.com/sean-crop-2.jpg'
-  bio: >-
-    Sean Geng is the co-founder and CEO of <a
-    href="http://smokecartel.com">SmokeCartel</a>, a Savannah-based ecommerce
-    startup that has grown from an idea to a widely-acclaimed publicly-traded
-    venture in less than two years' time. His company, Smoke Cartel, is a
-    popular online retailer and distributor of glassware and smokeware products.
-    He is passionate about emerging technologies and developing industries, and
-    how they can be used to improve society and reduce societal injustices.
-  email: sean@smokecartel.com
-  twitter: smokecartel
-  github: seangeng
-  linkedin: 'https://www.linkedin.com/in/seangeng/'
