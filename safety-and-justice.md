@@ -1,10 +1,10 @@
 ---
 title: Safety and justice
-layout: default
+layout: codeacross
 permalink: /safety-and-justice/
 ---
 
-## We believe that safe and just communities have justice systems that are responsive, fair and that work for our nation’s most vulnerable populations, especially those most impacted by crime, violence, and justice system involvement. 
+## We believe that safe and just communities have justice systems that are responsive, fair and that work for our nation’s most vulnerable populations, especially those most impacted by crime, violence, and justice system involvement.
 
 Whether Open Savannah is helping people with past criminal convictions move on with their lives, or creating tools to de-escalate encounters between mentally ill individuals and the police, our work focuses on how we can work together with government and communities to increase safety, reduce costs, and serve people better.
 
