@@ -1,6 +1,5 @@
 ---
 title: Safety and justice
-author: Open Savannah
 layout: default
 permalink: /safety-and-justice/
 ---
