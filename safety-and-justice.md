@@ -1,6 +1,6 @@
 ---
 title: Safety and justice
-layout: codeacross
+layout: default
 permalink: /safety-and-justice/
 ---
 
