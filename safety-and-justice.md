@@ -1,7 +1,7 @@
 ---
 title: Safety and justice
 layout: default
-permalink: /safety-and-justice/
+permalink: /safety-and-justice
 ---
 
 ## We believe that safe and just communities have justice systems that are responsive, fair and that work for our nation’s most vulnerable populations, especially those most impacted by crime, violence, and justice system involvement.
