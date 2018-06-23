@@ -29,6 +29,8 @@ permalink: /our-manifesto
 
 **The big thing about small things is that they add up.** The usability, accessibility, and efficiency of government services is more than the sum of its parts. Wonky pagination on a webform to apply for a business license may seem like a trivial matter, but it very well could prevent the creation of hundreds of new local jobs by being just a high enough barrier to entry for a would-be entrepreneur to build the next great local business.
 
+**People aren't the problem. The problem is the problem.** When we start attacking our elected officials and public servants for failing to represent our interests as residents, we should *always* remain mindful of the larger machinery of municipal government under which they are doing their jobs. Rarely does blame lie with the people in charge; more often, the issue goes much deeper, and is the result of applying 20th century municipal structures to the governance of a distributed 21st century society. 
+
 **Locality knowledge is the most important and valuable type of data** The knowledge that everyday residents have about their neighborhoods is the sort of interpersonal data that not even 'big data' companies have a way to tap into often.
 
 ## Our formula for achieving our goals
