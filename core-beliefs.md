@@ -1,5 +1,5 @@
 ---
-title: Our Core Beliefs
+title: Our Organizational Patterns
 layout: default
 permalink: /core-beliefs/
 ---
