@@ -4,6 +4,7 @@ layout: default
 permalink: /core-beliefs/
 ---
 
+At Open Savannah, we have a guiding set of beliefs – what we refer to as 'patterns' – that inform our thinking and guide our decision-making. Each pattern is short, general in application, and applies to almost all aspects of what we do.
 
 1. **Local government is (can be) what we do together.** Government can and should represent and serve the people in our communities, but it will only do that if we get involved and make it relevant to our communities’ needs.
 2. **Change starts at the local level.** Starting with Savannah and Chatham County lets us connect directly with users and allows us to impact people’s lives faster.&nbsp;
@@ -24,13 +25,14 @@ permalink: /core-beliefs/
 17. **Government should work for *all* Coastal Georgia residents**, not just those with access to power and resources. We define “citizen” as someone who shows up for their community, not by legal status.
 18. **Our organization and our community should reflect the diversity of the country.** The problems we face cannot be solved unless a greater number and diversity of people become involved in civic life and have input into critical community issues.
 19. **Government as a platform means working with a diverse ecosystem of partners and contributors** – We partner with community based organizations and government institutions that have the expertise in the challenges that we are trying to solve, we know that we can't do this alone, and that we are stronger together.
-20. **We believe in the strength of our local democratic institutions, and reject the notion that 'things will never change.'**The moment we begin to give in to the status quo is the moment we lose collective agency. We can't fix government without first fixing citizenship.
+20. **We believe in the strength of our local democratic institutions, and reject the notion that 'things will never change.'** The moment we begin to give in to the status quo is the moment we lose collective agency. We can't fix government without first fixing citizenship.
 21. **We believe in the power of open data not only to make government more efficient, but to democratize our democracy.&nbsp;**Open, linked data holds a range of benefits to everyone if used properly and made accessible to residents. Access to truth through data is knowledge. Knowledge is power.
 22. **We offer up our hands, not just our voices.**It's easy to complain about our local officials on Facebook. It's harder, however, to offer up our skills and seek to create the change we wish to see.&nbsp;
 23. **We meet people where they are.&nbsp;**To engage in meaningful dialogue with the entire Savannah community, we must consciously seek to communicate on the platforms and in the physical spaces citizens know and frequent most. We don't believe putting code on GitHub can, in itself, have broad-based impact.
-24. **We believe we have a moral obligation to make technology a positive force for Savannah, including increasing resident mobility, empowering restorative justice, ending the era mass incarceration and pay-based probation, making housing more affordable, and creating broad-based economic propserity ** We currently have three core focus areas we seek to use technology and government together to wield impact: (a) mobility and transportation, (b) safety and justice, and (c) ensuring residents have affordable housing.
-
+24. **We make the main thing the main thing.* We currently have three core focus areas we seek to use technology and government together to wield impact: (a) mobility and transportation, (b) safety and justice, and (c) ensuring residents have affordable housing.
+25. **We do the hard work to make it simple.** 
 **We help local government work for the people who need it most** – We focus on improving services for the most vulnerable in our society and in restoring civic trust in an era of record cynicism.
+26. **We acknowledge and seek to eliminate exclusionary behaviors, norms, and practices.** It's easy to say we aim to be 'inclusive,' but being inclusive is less a thing itself than it is the absence of exclusion. We must acknowledge our own exclusionary tendencies and course-correct them whenever possible.
 
 <h3>No one is coming . . . it's up to us.</h3>
 <h1>We are Open Savannah.</h1>
