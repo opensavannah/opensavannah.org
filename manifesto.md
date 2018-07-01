@@ -39,6 +39,25 @@ permalink: /our-manifesto
 
 This is our most distilled theory of change. We believe that \`information\` is power, and \`invitation\` turns individual power into group participation, otherwise known as collective action.
 
+We break this down into several basic guiding principles: 
+
+**Solve real problems.** We solve problems that real people have, we make sure what we build works for them, and we continuously improve it. We solve real problems instead of creating elegant code and robust systems to solve imagined ones.
+Work with, not for the people we serve. We start with our users, the people affected by the service, and understand and respect their needs throughout the process. We also respect and support public servants, and when we are critical of government outcomes, we blame the system, not the people.
+
+**We build up** -- from the user to the system, and from the local to the federal.
+
+**Work lean, iterate quickly.** Get a working minimum viable product (MVP) in front of users as early as possible and make continuous improvements based on how they use the service.
+
+**Make it better with data.** Inform iterations with data about user behavior. Evaluate programs based on statistically-sound ground-truthed data about outcomes.
+
+**Impact not ideology.** Government that works for all people doesn’t belong to one party or ideology. We welcome all political and social views that respect the principle that government should work effectively for all Americans with respect and dignity.
+
+**Shape the market, don't capture the market.** Government that works for all requires the vendor ecosystem to change to become more responsive to user needs. We have the potential to create the biggest change when our projects seek to shape, rather than capture, the market for government technology.
+
+**Non-partisan, but not neutral.** We are an alliance of non-partisan groups, but that non-partisanship does not imply neutrality. This community has a vision for what government should be and will work to bring that vision into reality.
+
+**Default to open.** Work in the open and collaborate with the community to help make programs and services better for everyone.
+
 **We help local government work for the people who need it most** – We focus on improving services for the most vulnerable in our society and in restoring civic trust in an era of record cynicism. Sometimes, our work takes the form of a direct intervention (i.e. specifically designing a system to make applying for social services easier), while more systemic issues often require tackling root causes in a more indirect fashion that creates the conditions for change (i.e.advocating for open data policy).
 
 ## We are Open Savannah.
