@@ -33,6 +33,12 @@ permalink: /our-manifesto
 
 **Locality knowledge is the most important and valuable type of data** The knowledge that everyday residents have about their neighborhoods is the sort of interpersonal data that not even 'big data' companies have a way to tap into often.
 
+## Our Values
+
+1. **Empathy is our operating system.** We have a deep empathy for the people we work with. We seek to understand the problems they face and we work tirelessly to serve them. 
+2. **No one is coming. It’s up to us.** We don’t wait for the powers that be to ask us; we act. We don’t ask for permission; we find a way. We don’t talk change; we deliver it.
+3. **Build the movement.** No one organization can fulfill this vision; we will succeed through a movement that invites everyone to roll up their sleeves and do their part. In short, cultivate the karass.
+
 ## Our formula for achieving our goals
 
 `Information + invitation = participation. `
