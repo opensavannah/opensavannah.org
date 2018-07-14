@@ -30,7 +30,7 @@ permalink: /core-beliefs/
 22. **We offer up our hands, not just our voices.** It's easy to complain about our local officials on Facebook. It's harder, however, to offer up our skills and seek to create the change we wish to see.&nbsp;
 23. **We meet people where they are.&nbsp;** To engage in meaningful dialogue with the entire Savannah community, we must consciously seek to communicate on the platforms and in the physical spaces citizens know and frequent most. We don't believe putting code on GitHub can, in itself, have broad-based impact.
 24. **We keep the main thing the main thing.** We currently have three core focus areas we seek to use technology and government together to wield impact: (a) mobility and transportation, (b) safety and justice, and (c) ensuring residents have affordable housing.
-25. **We do the hard work to make it simple.** 
+25. **We do the hard work to make it simple.** The easier to use a piece of civic infrastructure is, the more accessible it is the greatest numbber of people. But making something simple isn't simple. It takes extra work and an attention to human needs to make things simple and effective. 
 26. **We help local government work for the people who need it most** – We focus on improving services for the most vulnerable in our society and in restoring civic trust in an era of record cynicism.
 27. **We acknowledge and seek to eliminate exclusionary behaviors, norms, and practices.** It's easy to say we aim to be 'inclusive,' but being inclusive is less a thing itself than it is the absence of exclusion. We must acknowledge our own exclusionary tendencies and course-correct them whenever possible.
 
