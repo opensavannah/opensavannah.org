@@ -1,7 +1,6 @@
 ---
-title: Civic Tech Projects in the Works
 layout: default
-permalink: /projects/
+permalink: /projects
 ---
 
 ### PROJECTS
