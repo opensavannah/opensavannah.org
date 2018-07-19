@@ -1,6 +1,5 @@
 ---
 title: Civic Tech Projects in the Works
-author: Open Savannah
 layout: default
 permalink: /projects/
 ---
