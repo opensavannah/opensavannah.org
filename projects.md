@@ -14,6 +14,6 @@ permalink: /projects/
     basePath: null, // See step 2
     ssoToken: null, // See step 3
   });
-</script></div>
+</script>
 
 
