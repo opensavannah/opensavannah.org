@@ -2,7 +2,7 @@
 title: Civic Tech Projects in the Works
 author: Open Savannah
 layout: default
-permalink: /selected-projects/
+permalink: /projects/
 ---
 
 <div data-canny />
