@@ -73,18 +73,21 @@
   twitter: brianontheroad
   github: brianontheroad
   linkedin: 'https://www.linkedin.com/in/brianyoung'
-- name: Aaron Pompei
-  title: Community Lead
-  headshot: aaronpompei.jpg
+- name: Teresa Thornton-Davis
+  title: Community Engagement Coordinator
+  headshot: teresa.jpg
   bio: >-
-    Aaron is a designer and UX architect who is currently pursuing an M.F.A. in
-    Interactive Design from Savannah College of Art and Design. Open Savannah is
-    important to him as an opportunity to collaborate with area residents and
-    municipal staff to improve our city.
-  email: aaron@aaronpompei.com
-  twitter: aaronpompei
-  github: apompei
-  linkedin: 'https://www.linkedin.com/in/nickhelmholdt'
+    Teresa Thornton Davis (also known as "Terri") is an organizer and advocate
+    whose actions and efforts concentrate around eradicating poverty and
+    creating educational and economic opportunities in under-resourced
+    communities in Savannah. Terri believes in Open Savannah's goal of promoting
+    civic engagement through technology. Allowing the people increased access to
+    their local government enables citizens to influence public policy and
+    builds political and financial capital in ALL our neighborhoods.
+  email: teresa@opensavannah.org
+  twitter: opensavannah
+  github: opensavannah
+  linkedin:
 - name: Nick Palumbo
   title: Neighborhood Association Outreach Lead
   headshot: npalumbo.png
@@ -98,21 +101,6 @@
   twitter:
   github:
   linkedin: 'https://www.linkedin.com/in/nickhelmholdt'
-- name: Teresa Thornton-Davis
-  title: Community Engagement Coordinator
-  headshot: roy.jpg
-  bio: >-
-    Teresa Thornton Davis (also known as "Terri") is an organizer and advocate
-    whose actions and efforts concentrate around eradicating poverty and
-    creating educational and economic opportunities in under-resourced
-    communities in Savannah. Terri believes in Open Savannah's goal of promoting
-    civic engagement through technology. Allowing the people increased access to
-    their local government enables citizens to influence public policy and
-    builds political and financial capital in ALL our neighborhoods.
-  email: teresa@opensavannah.org
-  twitter: opensavannah
-  github: opensavannah
-  linkedin:
 - name: Patrick Bentley
   title: Econonic and Workforce Development Lead
   headshot: pbentley.png
@@ -127,3 +115,15 @@
   email: patrick@opensavannah.org
   twitter: PI_Bentley
   linkedin: 'https://www.linkedin.com/in/patrickbentley'
+- name: Aaron Pompei
+  title: Community Lead
+  headshot: aaronpompei.jpg
+  bio: >-
+    Aaron is a designer and UX architect who is currently pursuing an M.F.A. in
+    Interactive Design from Savannah College of Art and Design. Open Savannah is
+    important to him as an opportunity to collaborate with area residents and
+    municipal staff to improve our city.
+  email: aaron@aaronpompei.com
+  twitter: aaronpompei
+  github: apompei
+  linkedin: 'https://www.linkedin.com/in/nickhelmholdt'
