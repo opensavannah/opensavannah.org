@@ -18,7 +18,7 @@
   github: carlvlewis
   linkedin: 'https://www.linkedin.com/in/carlvvlewis'
 - name: Rob Lingle
-  title: 'Brigade Captain'
+  title: Brigade Captain
   headshot: roblingle.jpg
   bio: >-
     Rob runs a consultancy that builds web applications called oak.works. Open
@@ -98,20 +98,21 @@
   twitter:
   github:
   linkedin: 'https://www.linkedin.com/in/nickhelmholdt'
-- name: Roy Mosby
-  title: 'Data Curation and Standards Lead; Project Maintainer, SavMaps.'
+- name: Teresa Thornton-Davis
+  title: Community Engagement Coordinator
   headshot: roy.jpg
   bio: >-
-    Roy has been in the U.S. Army’s Signal Corps for more than 15 years. As he
-    approaches two decades of total military service, Roy is preparing to
-    transition to a civilian career in the tech field. He has a passion for
-    process improvement and devising strategies for streamlining routine tasks.
-    He has fallen in love with the beauty of Savannah and is using Open Savannah
-    as an opportunity to make a home and continue to serve those around him.
-  email: roy.mosby@opensavannah.org
-  twitter: royemosby
-  github: egomadking
-  linkedin: 'https://linkedin.com/in/roy-mosby'
+    Teresa Thornton Davis (also known as "Terri") is an organizer and advocate
+    whose actions and efforts concentrate around eradicating poverty and
+    creating educational and economic opportunities in under-resourced
+    communities in Savannah. Terri believes in Open Savannah's goal of promoting
+    civic engagement through technology. Allowing the people increased access to
+    their local government enables citizens to influence public policy and
+    builds political and financial capital in ALL our neighborhoods.
+  email: teresa@opensavannah.org
+  twitter: opensavannah
+  github: opensavannah
+  linkedin:
 - name: Patrick Bentley
   title: Econonic and Workforce Development Lead
   headshot: pbentley.png
