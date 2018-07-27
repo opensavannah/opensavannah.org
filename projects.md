@@ -11,7 +11,7 @@ permalink: /projects
 <script>
   Canny('render', {
     boardToken: 'b29f19c2-4139-3874-143d-042a90cd47be',
-    basePath: null, // See step 2
+    basePath: /projects, // See step 2
     ssoToken: null, // See step 3
   });
 </script>
