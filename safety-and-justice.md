@@ -1,5 +1,5 @@
 ---
-title: 'Focus Area: Safety and justice'
+title: 'Focus Area 1: Safety and justice'
 layout: default
 permalink: /safety-and-justice
 ---
@@ -20,9 +20,9 @@ Since launching in 2016, we have expanded our pilot partners to include eight co
 
 It's impossible to talk about reform to the criminal justice system in Georgia without acknowledging the massive role the war on drugs has played in targeting non-white residents and getting them stuck in a cycle of cash bond and private probation companies, whereby they suffer for decades simply because they cannot afford to pay a private company exorbitant probation fees.
 
-We believe that by following the example of other states and legalizing low-level drug offenses, such as possession of small amounts of cannabis, Georgia can begin to rectify the disproportionate negative effects of a broken criminal justice system and begin to embrace restorative justice in its truest sense. We support the efforts of [Reform Georgia](http://reformgeorgia.org), and applaud its recent victory in decriminalizing marijuana possession in the City of Savannah.&nbsp;
+We believe that by following the example of other states and legalizing low-level drug offenses, such as possession of small amounts of cannabis, Georgia can begin to rectify the disproportionate negative effects of a broken criminal justice system and begin to embrace restorative justice in its truest sense. We support the efforts of [Reform Georgia](http://reformgeorgia.org), and applaud its recent victory in decriminalizing marijuana possession in the City of Savannah. 
 
-&nbsp;
+ 
 
 #### 3. Helping eligible individuals apply for Clean Slate and criminal record expungement services online
 
