@@ -1,5 +1,5 @@
 ---
-title: Focus Area: Public Participation in Government
+title: Focus Area - Public Participation in Government
 layout: default
 permalink: /focus-area-public-participation
 ---
