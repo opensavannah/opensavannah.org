@@ -9,6 +9,8 @@ permalink: /in-the-news/
 
 Although we've only been around since Feb. 2017, Open Savannah has already garnered quite a bit of local and national attention for our grassroots efforts at making Savannah a more open and responsive place to live.
 
+* [City of Savannah, OpenSavannah collaborate to solicit more inclusive resident feedback](https://www.savannahnow.com/news/20180917/savannah-seeking-public-input-for-2019-budget) *Savannah Morning News*, 17 Sept. 2018
+* [Rob Lingle: Share your Savannah budget priorities](https://www.savannahnow.com/business/20181003/rob-lingle-share-your-savannah-budget-priorities) *Savannah Morning News* 3 Oct. 2018.
 * [Open Savannah makes civic life accessible](http://savannahnow.com/news/column/2017-08-23/papy-open-savannah-makes-civic-life-accessible). *Savannah Morning News*, 23 Aug. 2017.
 * [Three Cities Point Hacking Efforts Toward Recent Hurricanes](http://www.govtech.com/civic/3-Cities-Point-Hacking-Efforts-toward-Recent-Hurricanes.html), *GovTech* magazine, 16 Oct., 2017.
 * [Hurricane hackers build a more prepared Savannah](http://savannahnow.com/news/2017-10-23/hurricane-hackers-build-more-prepared-savannah) *Savannah Morning News*, 23 Oct. 2017.
