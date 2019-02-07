@@ -6,7 +6,7 @@ permalink: /our-manifesto
 
 
 ### Our vision, mission, values, and operating principles:
-<img src="https://cvlassets.nyc3.digitaloceanspaces.com/savannah_by_the_people-1.png"  width="300">
+<img src="https://cvlassets.nyc3.digitaloceanspaces.com/savannah_by_the_people-1.png"  width="500">
 
 &nbsp;
 
