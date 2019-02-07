@@ -3,10 +3,10 @@ title: Our Manifesto
 layout: default
 permalink: /our-manifesto
 ---
+<img src="https://cvlassets.nyc3.digitaloceanspaces.com/savannah_by_the_people-1.png"  width="500">
 
 
 ### Our vision, mission, values, and operating principles:
-<img src="https://cvlassets.nyc3.digitaloceanspaces.com/savannah_by_the_people-1.png"  width="500">
 
 &nbsp;
 
