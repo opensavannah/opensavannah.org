@@ -4,6 +4,7 @@ layout: default
 permalink: /our-manifesto
 ---
 
+![](https://cvlassets.nyc3.digitaloceanspaces.com/savannah_by_the_people.png)
 ### Our vision, mission, values, and operating principles:
 
 &nbsp;
