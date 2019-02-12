@@ -3,7 +3,7 @@ layout: default
 permalink: /join/
 ---
 
-![](https://cvlassets.nyc3.digitaloceanspaces.com/work-on-things-that-matter-bw.png)
+![50%](https://cvlassets.nyc3.digitaloceanspaces.com/work-on-things-that-matter-bw.png)
 
 ## OpenSavannah is seeking to fill a number of positions for its 2019 Core Team
 
