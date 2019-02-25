@@ -1,5 +1,5 @@
 ---
-permalink: /donate/
+permalink: /census/
 ---
 
-<meta http-equiv="refresh" content="0; URL='https://secure.codeforamerica.org/page/contribute/donate-to-a-brigade-today?source_codes=Brigade-page&brigade=Open%20Savannah'" />
+<meta http-equiv="refresh" content="0; URL='https://codeforamerica.co1.qualtrics.com/jfe/form/SV_cwK6Yn0BQTpIc7j'" />
