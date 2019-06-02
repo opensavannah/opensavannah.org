@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Blog</title>
+  <title>Fix OSX Excel CSV export linebreaks</title>
   <meta name="description" content="We are a local brigade of Code for America committed to making government work better in Greater Savannah.">
   <link rel="icon" href="/images/favicon.ico">
 
@@ -117,24 +117,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h2>Blog</h2>
-            <ul class="list-unstyled">
-  
-</ul>
+            <h2>Fix OSX Excel CSV export linebreaks</h2>
+            <p>Jan 23, 2014 • Kaleb Clark</p>
 
-<p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+<p>If you are working with data on OSX and need to get it into a CSV format, you may have run into the linefeed problem.</p>
 
-<!-- Pagination links -->
-<div class="pagination">
-  
-    <span class="previous">Previous</span>
-  
-  <span class="page_number ">Page:  of </span>
-  
-    <span class="next ">Next</span>
-  
-</div>
+<p>The problem is this: Excel for OSX exports CSV files with wrong linefeeds. If you do a line count on a file that you have exported from Excel, it will show that it is one giant line. If you are going to process this with python, or feed it into an SQL table, it needs to have proper linefeeds.</p>
 
+<p>Quick and dirty hack solution:</p>
+
+<pre class="brush: bash; title: ; notranslate" title="">cat brokenfile.csv | tr '\15' '\n' &gt; awesomefile.csv
+</pre>
+
+<p>This will replace the broken linefeeds with proper ‘\n’ linefeeds.</p>
+
+<p>Enjoy<br />
+-Kaleb</p>
 
 
           </div>

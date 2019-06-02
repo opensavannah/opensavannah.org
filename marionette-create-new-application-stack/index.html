@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Blog</title>
+  <title>Marionette: Create new Application Stack</title>
   <meta name="description" content="We are a local brigade of Code for America committed to making government work better in Greater Savannah.">
   <link rel="icon" href="/images/favicon.ico">
 
@@ -117,23 +117,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h2>Blog</h2>
-            <ul class="list-unstyled">
-  
-</ul>
+            <h2>Marionette: Create new Application Stack</h2>
+            <p>Jan 23, 2014 • Kaleb Clark</p>
 
-<p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+<p>After working with backbone.js for a couple of weeks, I knew that it would eventually lead to the Marionette.js framework. Up until now I had been writing the app stack by hand. I found yesterday there are generators that can set this up for you. We will look first into <a href="http://yeoman.io/community-generators.html">yeoman</a>.</p>
 
-<!-- Pagination links -->
-<div class="pagination">
-  
-    <span class="previous">Previous</span>
-  
-  <span class="page_number ">Page:  of </span>
-  
-    <span class="next ">Next</span>
-  
-</div>
+<p><a href="http://yeoman.io/community-generators.html">Yeoman</a> is a collection of generators, and we will be looking specifically at the generator by <a href="https://github.com/mrichard">Michael Richard</a> called <a href="https://github.com/mrichard/generator-marionette">generator-marionette</a>.</p>
+
+<p>First. Make sure you go through and install all the dependencies that generator-marionette requires here: <a href="https://github.com/mrichard/generator-marionette#install">generator-marionette:install</a>.</p>
+
+<p>Now you have access to the command “yo”. yo can be used to generate the full application stack for a marionette application. There are commands to generate the stack itself, views, controllers, models, routers, regions, layouts etc. I will direct you to the <a href="https://github.com/mrichard/generator-marionette#recommends">original documentation</a> for detailed instructions on these commands.</p>
+
+<p>For reference, here is an example of bootstrapping an application stack:</p>
+
+<pre class="brush: bash; title: ; notranslate" title="">$ yo marionette</pre>
+
+<p>This will create a directory structure with all the required files.</p>
+
+<p>The layout of the application looks like:<br />
+<a href="http://www.abraxxus.net/wp-content/uploads/2013/12/marionette.jpg"><img class="alignnone size-full wp-image-125" alt="marionette" src="http://www.abraxxus.net/wp-content/uploads/2013/12/marionette.jpg" width="700" height="350" /></a></p>
+
+<p>Next:<a href="http://code4sac.org/marionette-adding-data-to-your-app/"> Marionette: Adding data to your app</a></p>
 
 
 

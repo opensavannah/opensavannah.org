@@ -1,30 +1,515 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Open Savannah</title>
+    <description>We are a local brigade of Code for America committed to making government work better in Greater Savannah.</description>
+    <link>https://opensavannah.org/</link>
+    <atom:link href="https://opensavannah.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 02 Jun 2019 17:04:13 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Jun 2019 17:04:13 +0000</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
     <item>
-      <title>{{ post.title | xml_escape }}</title>
-      <description>{{ post.content | xml_escape }}</description>
-      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-      <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-      {% for tag in post.tags %}
-      <category>{{ tag | xml_escape }}</category>
-      {% endfor %}
-      {% for cat in post.categories %}
-      <category>{{ cat | xml_escape }}</category>
-      {% endfor %}
+      <title>We're looking for the next generation of Savannah civic leaders dedicated to openness, equity, and co-creation</title>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;You can help build the movement for a more open and equitable Coastal Georgia; no tech experience is necessary. Here’s how!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;OpenSavannah began in 2017 as a group of volunteers, trying to build technology for Savannahians, by Savannahians. Since then, a lot of amazing things have happened, including two (2) $10,000 grants from SEDA in late 2016 and numerous national recognitions from Code for America as being a leading brigade among all 77 cities in the Code for America network. As a result, our OpenSavannah “civic hacking brigade” is transforming from a bunch of volunteers ordering a pizza to an inclusive and broad-based nonprofit of people dedicated to creative solutions to make our community better, as well as supporting the larger civic ecology around us. This will require formalizing the structure of our leadership team – and possibly obtaining independent 501(c)(3) status – to broaden our impact.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;With all this change, we need new ideas and new people to contribute their time to keep us moving in the right direction. And we need your help.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;saved-by-the-brigade-the-new-class&quot;&gt;Saved by the Brigade: The New Class&lt;/h2&gt;
+
+&lt;p&gt;We are looking for people to make a one year commitment to become part of OpenSavannah’s leadership team. We’ve got a number of roles and responsibilities we need help with, and these can be divided among responsible parties in a few different ways. Our two primary lead positions are Delivery and Community Engagement; we absolutely need to bring a couple of folks on to fill these roles. We also need help with event organizing and communicating, and these roles can be filled by other individuals or teams, or they can be added to the roles of the two main leads. If you want to help, but don’t feel ready to take on a lead role, you can also let us know you’re interested in providing support in one or more of these areas. Read on for more detailed job descriptions.&lt;/p&gt;
+
+&lt;p&gt;We’ve historically been an all volunteer organization. That said, we recognize that we may need to formalize the way we operate and ensure our ongoing sustainability by providing some compensation for some of this work in the very near future. But we’re going to leave that up to you to decide. We’ve decided to wait to make such a decision by majority vote until the new Core Team members have been onboarded for at least two months and can have an informed say in the decision. Specifically, the Delivery and Community Engagement leads can be paid for up to half a day’s work each week at a rate of $40 per hour. Additional opportunities for work and compensation may arise as we run flagship data-jams, hackathons and other events and find opportunities to contract with government. However, know that you’re signing on for a job that compensates primarily in the knowledge that you’ve helped your community. But even unpaid, these roles will look great on a resume!&lt;/p&gt;
+
+&lt;p&gt;What you’ll get to do:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Develop valuable leadership and management skills, building and leading a team in your functional area&lt;/li&gt;
+  &lt;li&gt;Own a functional area of OpenSavannah operations&lt;/li&gt;
+  &lt;li&gt;Work closely with the Senior Advisory Team to define outcomes aligned with strategic initiatives&lt;/li&gt;
+  &lt;li&gt;Work with a team of smart, passionate individuals committed to improving Savannah&lt;/li&gt;
+  &lt;li&gt;Help support the growing Sacramento tech community and work with community organizers to make tech that works for the most vulnerable in our region.&lt;/li&gt;
+  &lt;li&gt;Create processes and infrastructure that will shape the future of OpenSavannah.&lt;/li&gt;
+  &lt;li&gt;Work on things that matter!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What benefits you’ll receive&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Complimentary Community-Level Membership at &lt;a href=&quot;https://thecreativecoast.org&quot;&gt;The Labs at The Creative Coast&lt;/a&gt; and all the benefits that come with it.&lt;/li&gt;
+  &lt;li&gt;Use of a Microsoft Surface Laptop on loan for the duration of your tenure as a member of Leadership Team (if you don’t currently have access to a personal laptop).&lt;/li&gt;
+  &lt;li&gt;Reimbursement for all gas/transportation costs to Brigade events.
+– Access to OpenSavannah semi-private office space at The Creative Coast when available.
+– Free airfare, hotel, and ticket costs to attend Code for America’s annual Summit in Oakland, Ca. (May 30-June 1) and Brigade Congress in Philadelphia (Sept. 8-10, 2019).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What we’ll ask from you:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1-year commitment through the end of June 2020&lt;/li&gt;
+  &lt;li&gt;Participate in biweekly leadership team strategic planning meetings&lt;/li&gt;
+  &lt;li&gt;Provide monthly update to the Lead Organizer&lt;/li&gt;
+  &lt;li&gt;Regularly attend monthly Community Action Nights, when possible, and larger OpenSavannah flagship events&lt;/li&gt;
+  &lt;li&gt;Reliably support team members and drive outcomes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://codeforsacramento.typeform.com/to/DTlt66&quot;&gt;&lt;strong&gt;Are you interested? Great! Please let us know by filling out this quick form before Monday, January 16, 2017!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Again, thanks for your interest! We’re excited to hear from you. If you have questions or thoughts, please don’t hesitate to contact us.&lt;/p&gt;
+
+&lt;h2 id=&quot;code-for-sacramento-lead-roles&quot;&gt;Code for Sacramento Lead Roles&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Delivery Lead: The What&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Many of our members have great ideas for projects, but often those ideas can stagnate without the right combination of skills, partnership, and organization. The &lt;strong&gt;Delivery Lead&lt;/strong&gt; advises maintainers on how to thoughtfully advance their project through development stages to create a truly impactful product. He/She is also responsible for managing projects that Code for Sacramento itself undertakes in conjunction with (and potentially under contract with) government and community partners. The person in this role needs to have a general knowledge of all active projects and communicate regularly with project maintainers. For this position, a person should be well-organized, proactive in communicating, and maintain a general knowledge of tech processes.&lt;/p&gt;
+
+&lt;p&gt;Points of ownership include (but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Defining strategy for project development standards and processes&lt;/li&gt;
+  &lt;li&gt;Supporting teams and projects as they grow&lt;/li&gt;
+  &lt;li&gt;Managing Code for Sacramento projects&lt;/li&gt;
+  &lt;li&gt;Collecting problem statements from partner organizations&lt;/li&gt;
+  &lt;li&gt;Working closely with the Community Engagement Lead to pair members with appropriate projects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Community Engagement Lead: The Who&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As a volunteer-based group, it’s important to provide our members with a positive, fulfilling experience. Civic innovation is driven by engaged individuals, and our role is to bring those people together to make real change happen. The &lt;strong&gt;Community Engagement Lead&lt;/strong&gt; focuses on creating value for brigade members and growing the community. Ideally, the person in this role works very well with all personality types, can effectively articulate the mission of Code for Sacramento, and holds a general knowledge of the civic tech community in the larger Sacramento context.&lt;/p&gt;
+
+&lt;p&gt;Points of ownership include (but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Recruiting new members and retaining current members&lt;/li&gt;
+  &lt;li&gt;Creating an on-boarding process for new community members&lt;/li&gt;
+  &lt;li&gt;Communicating with newcomers and working closely with the Delivery Lead to match skills with project needs&lt;/li&gt;
+  &lt;li&gt;Identify member goals at all levels and helping members achieve those goals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Events: The When and Where&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Between weekly hack nights, larger thematic hackathons, collaborative programming, and conferences, we have a lot of events (often simultaneously). For a seamless experience, we need help with event logistics and planning, including catering, location, materials and setup, participant experience, etc. Our current plan is to divide this role up among members of the core team, so that each person is responsible for a fraction of our events. We welcome the interest of outgoing, personable individuals to take on all or a portion of this workload.&lt;/p&gt;
+
+&lt;p&gt;Points of ownership include (but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Arranging details of weekly hack night&lt;/li&gt;
+  &lt;li&gt;Finding and coordinating with hack night speakers&lt;/li&gt;
+  &lt;li&gt;Assisting with logistics of hackathon events; oversee schedule; secure space for events&lt;/li&gt;
+  &lt;li&gt;Communicate with sponsors regarding food/drinks; set up space with refreshments, working materials, promo materials&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Communications: The Why&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At OpenSavannah, we do a lot of cool stuff. The doing part is easy and fun, but the telling part isn’t so obvious. We can always use help in artfully telling the story of our community. This means strategizing marketing/public relations, documenting member projects and efforts, soliciting and interacting with press, and establishing a metrics structure. For this role, the right match is someone strongly interested in crafting narratives, having a sense of interactive marketing practices, and confidently representing OpenSavannah.&lt;/p&gt;
+
+&lt;p&gt;Points of ownership include (but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Defining communications strategy at large&lt;/li&gt;
+  &lt;li&gt;Telling the OpenSavannah story and project stories&lt;/li&gt;
+  &lt;li&gt;Engaging the community&lt;/li&gt;
+  &lt;li&gt;Generating original content to demonstrate impact&lt;/li&gt;
+  &lt;li&gt;Promoting events and projects as needed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://codeforsacramento.typeform.com/to/DTlt66&quot;&gt;&lt;strong&gt;To indicate your interest in any of these roles, please fill out this quick form before Monday, January 16, 2017!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About OpenSavannah&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;OpenSavannah is a volunteer-driven Code for America Brigade, a group of civic innovators (designers, developers, data scientists, urbanists and community organizers) who contribute our talents toward improving the way our community interacts with local government by advocating for open data and using it to create apps and shared resources. We meet every Wednesday night at The Urban Hive or the Hacker Lab in midtown Sacramento.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;OpenSavannah is fiscally sponsored by the Code for America Labs, Inc., a California 501(c)(3) nonprofit corporation. Its local Community Partner is The Creative Coast.&lt;/em&gt;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      <link>https://opensavannah.org/were-looking-for-leaders/</link>
+      <guid isPermaLink="true">https://opensavannah.org/were-looking-for-leaders/</guid>
+      
+      <category>core team</category>
+      
+      
+      <category>blog</category>
+      
     </item>
-    {% endfor %}
+    
+    <item>
+      <title>Have You Heard?</title>
+      <description>&lt;p&gt;If you haven’t heard already, where have you been!? We’re exactly one week away from the &lt;a href=&quot;hack4sac.saccounty.net/#mainPage&quot;&gt;#Hack4Sac&lt;/a&gt; Kickoff event held at the Sac County Board of Supervisors Chambers. Teams will have 6 weeks to use data from the &lt;a href=&quot;data.cityofsacramento.org/home&quot;&gt;Sacramento County Open Data Portal&lt;/a&gt; to uncover opportunities and build solutions that will improve our region. A total of $10,000 in cash prizes is up for grabs, as well as the chance to do something great for our city. I don’t know about you, but I’m excited about the bright future Sacramento has ahead. We have passionate volunteers and community leaders working to make a lasting impact here. We have government officials that are excited about using technology to enhance civil services. We even have a super easy way for you to &lt;a href=&quot;https://www.eventbrite.com/e/hack4sac-kickoff-event-registration-21014497929&quot;&gt;register&lt;/a&gt;. All we need now is you; your input, your enthusiasm, your creativity.&lt;/p&gt;
+
+&lt;p&gt;Don’t forget, tomorrow night we will have a special guest from the &lt;a href=&quot;www.srceh.org/&quot;&gt;Sacramento Regional Coalition to End Homelessness&lt;/a&gt; with us to talk about developing a digital version of their &lt;a href=&quot;www.sachousingalliance.org/wp-content/uploads/2013/02/Peoples-Guide-FINAL-Englsh-April-22-2014.pdf&quot;&gt;People’s Guide to Health, Welfare and Other Services (PDF)&lt;/a&gt;. You don’t want to miss this one! To RSVP, you can find the event on &lt;a href=&quot;www.meetup.com/Code4Sac/events/227999717/&quot;&gt;Meetup.com&lt;/a&gt;. Hope to see you there!&lt;/p&gt;
+</description>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      <link>https://opensavannah.org/have-you-heard/</link>
+      <guid isPermaLink="true">https://opensavannah.org/have-you-heard/</guid>
+      
+      
+      <category>blog</category>
+      
+    </item>
+    
+    <item>
+      <title>Back to the Future: From Industry to Technology</title>
+      <description>&lt;p&gt;It’s no secret that we have transitioned into an age of technology. We are now able to instantly access and share information from almost anywhere in the world. A large number of businesses have either evolved and adapted to use technology, or have closed their doors. Devices like fax machines and even home phone are being used less and less. Its now possible to live, learn, work and shop from the comfort of you own couch if you so choose. The bottom line is, technology has the power to make communication faster, easier, and more efficient.&lt;/p&gt;
+
+&lt;p&gt;Government agencies have a reputation for not moving at the speed we are becoming accustomed to, and there is often a good basis for this reputation. There are entities that still rely heavily on physical paper documentation to approve requests. Processes that were implemented long before some of the technological advancements we have today are still the standard. The American Public Human Services Association describes human services, or providing “for the ‘general welfare’ of the nation” as “one of the most critical roles government plays in our society.” As time goes on, these services will become more challenging to administer and the system will eventually fail. The good news is that in lots of cities around the world people are coming together to pull their local government into the age of technology.&lt;/p&gt;
+
+&lt;p&gt;One of the first Code for America projects that I became familiar with came from Code for Honolulu. Honolulu Answers provides a way for residents to conduct a Google-like search for answers about city services. It’s open source, which means that anyone can use the code to create a similar resource anywhere they see a need for it. Like Oakland for example. The idea that you could help improve interaction between government and citizens to improve quality of life in your local region was empowering.&lt;/p&gt;
+
+&lt;p&gt;Technology has provided me with a renewed faith in the idea of government by the people, for the people. If we truly seek change, we must realize that the power lies in our hands. Whether it be creating an app like WICit, participating with a local organization or simply providing insight into issues that you face in your own neighborhood, we all have the power and opportunity to improve the way government works for us.&lt;/p&gt;
+
+&lt;p&gt;Cited: APHSA- Government’s Role http://www.aphsa.org/content/APHSA/en/pathways/INNOVATION_CENTER/GOVERNMENTS_ROLE.html&lt;/p&gt;
+</description>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
+      <link>https://opensavannah.org/back-to-the-future/</link>
+      <guid isPermaLink="true">https://opensavannah.org/back-to-the-future/</guid>
+      
+      
+      <category>blog</category>
+      
+    </item>
+    
+    <item>
+      <title>Happy New Year: Here's to 2016 and Beyond</title>
+      <description>&lt;p&gt;Thats right folks, time has yet again chugged along into the new year, seemingly with ever increasing pace. Making no stops and holding on to nothing. Teaching us patience and urgency. As we enter an election year, the soil of government is being tilled and worked over. In order for government to work, and work well, we the people must work together to communicate our needs. A computer is a powerful machine, but without a program to run it or give it instructions, it may as well be a paperweight. Likewise, a government by the people, for the people, can not operate succinctly without proper input from the people. As with any system, there are multiple ways to go about this, some of which a large number of citizens either don’t know, don’t care about, or can’t care about because of their own day to day struggles. One of Code for Sacramento’s goals is to serve as a bridge between those citizens and their government.&lt;/p&gt;
+
+&lt;p&gt;At Code for Sacramento, we use technology to facilitate civic engagement, in partnership with government, to improve quality of life in the Sacramento region. As we prepare our strategic plan for the year to come, our main focus is measurable results. We want to hear from you; citizens, community leaders, government officials and the like, to create real progress in our region. We invite you to our first Code for Sacramento meet-up of 2016 on Wednesday, January 13th at Hacker Lab. You can RSVP &lt;a href=&quot;http://www.meetup.com/Code4Sac/events/227908408/?a=socialmedia&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We look forward to seeing you all there!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHAT:&lt;/strong&gt; Code for Sacramento Meet Up&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHEN:&lt;/strong&gt; Wednesday, January 13, 2015 at 7:00 PM&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHERE:&lt;/strong&gt; Sacramento Hacker Lab - 1715 I St Sacramento, CA 95811&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RSVP:&lt;/strong&gt; &lt;a href=&quot;http://www.meetup.com/Code4Sac/events/227908408/?a=socialmedia&quot;&gt;http://www.meetup.com/Code4Sac/events/227908408/?a=socialmedia&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
+      <link>https://opensavannah.org/2016-and-beyond/</link>
+      <guid isPermaLink="true">https://opensavannah.org/2016-and-beyond/</guid>
+      
+      
+      <category>blog</category>
+      
+    </item>
+    
+    <item>
+      <title>Sac2050 Update: The Region's First Quality of Life Civic Datathon is Almost Here</title>
+      <description>&lt;p&gt;You’re invited to the Sac2050 Quality of Life Civic Datathon! This free event will empower volunteers to co-create a dynamic quality of life indicators dashboard for the Sacramento region.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHAT:&lt;/strong&gt; Sac2050 Quality of Life Civic Datathon&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHEN:&lt;/strong&gt; Saturday, November 14, 2015 from 10:00 AM to 2:00 PM&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHERE:&lt;/strong&gt; The Urban Hive - 1931 H St Sacramento, CA 95811&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RSVP:&lt;/strong&gt; &lt;a href=&quot;https://www.eventbrite.com/e/sac2050-quality-of-life-civic-datathon-tickets-19245356379&quot;&gt;https://www.eventbrite.com/e/sac2050-quality-of-life-civic-datathon-tickets-19245356379&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SHARE:&lt;/strong&gt; &lt;a href=&quot;https://www.facebook.com/events/1511970229118499/&quot;&gt;https://www.facebook.com/events/1511970229118499/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Sac2050 Quality of Life Civic Datathon is a half-day event to crowdsource key quality of life indicator data. That data will be used to create a dynamic dashboard (&lt;a href=&quot;http://sac2050.org&quot;&gt;Sac2050.org&lt;/a&gt;) as a foundation for a regional conversation about where we’re at, where we want to go, and how we’re going to get there.&lt;/p&gt;
+
+&lt;p&gt;Code for Sacramento is forming a broad-based coalition of stakeholders committed to shaping the future of the Sacramento region. Inspired by the Blueprint process of the early 2000s that modeled future transportation and land use planning, We’re convening residents to set goals in all quality of life areas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Economy&lt;/li&gt;
+  &lt;li&gt;K-12 and Higher Education&lt;/li&gt;
+  &lt;li&gt;Health and Families&lt;/li&gt;
+  &lt;li&gt;Public Safety&lt;/li&gt;
+  &lt;li&gt;Environmental Sustainability&lt;/li&gt;
+  &lt;li&gt;Transportation and Housing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Before we set goals for the future, though, we need to better understand where we’re at and how we got here.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-the-datathon-works&quot;&gt;How the Datathon Works&lt;/h3&gt;
+&lt;p&gt;At the Sac2050 Civic Datathon, participants will be divided into teams based on their interest area. Each team will have a list of datasets to collect, clean, and publish. Participants do not need to have a strong technical background, but should have basic spreadsheet proficiency (e.g., ability to sort, filter, delete columns, save as CSV, etc.). Detailed instructions will be provided to registered participants prior to the event.&lt;/p&gt;
+
+&lt;p&gt;In addition to participants who can assist with data collection, we’re interested in working with subject matter experts with strong writing skills to develop content and illuminate stories from the data. We’re also recruiting team leads with skills in cat herding to help organize the data collection process and ensure that participants are able to source their assigned dataset(s), along with providing minimal technical assistance.&lt;/p&gt;
+
+&lt;p&gt;Code for Sacramento will use the crowdsourced data to generate interactive, web-based data visualizations at Sac2050.org. We hope to develop Sac2050.org into a platform that helps our region transcend the short-term thinking that drives quarterly reports and annual budgets to develop a vision for the future that will empower the next two generations.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-sac2050&quot;&gt;About Sac2050&lt;/h3&gt;
+&lt;p&gt;Sac2050 is a project of Code for Sacramento. We’re building a diverse network of people and organizations collaborating to shape the future of the Sacramento region. We’re bringing together an inclusive community of young professionals, policy analysts, equity advocates, civic leaders, technologists, designers, makers, and dreamers who believe in the power of collective impact to accelerate quality of life improvements.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-code-for-sacramento&quot;&gt;About Code for Sacramento&lt;/h3&gt;
+&lt;p&gt;As a Code for America Brigade, Code for Sacramento is part of a national network of civic-minded volunteers who contribute their skills toward using the web as a platform for local government and community service. We enable local civic innovation and take an open source approach to solving community problems and improving the citizen experience.&lt;/p&gt;
+
+&lt;p&gt;Questions? Hit us up at sac2050@codeforsacramento.org!&lt;/p&gt;
+</description>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      <link>https://opensavannah.org/sac2050-civic-datathon/</link>
+      <guid isPermaLink="true">https://opensavannah.org/sac2050-civic-datathon/</guid>
+      
+      
+      <category>blog</category>
+      
+    </item>
+    
+    <item>
+      <title>Bike Counts App: Helping SABA Handle Bike Audits</title>
+      <description>&lt;p&gt;Two weeks ago, Code For Sacramento hosted the &lt;a href=&quot;http://sacbike.org/&quot;&gt;Sacramento Area Bicycle Advocates&lt;/a&gt;’ Executive Director Jim Brown. Jim came to us a few weeks back with a problem: SABA does quarterly bike counts on Sacramento streets. These counts require volunteers to watch an intersection for two hours and count every time a bicycle enters the intersection, including collecting certain demographic information. Up until now, these counts were mainly handled on paper with sheets that would have to be tallied and deciphered, then entered into a database. As this was a volunteer effort, there came some issues around consistency with data collection.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, a volunteer named Bill Leddy created a mobile app for Android and iOS that was able to handle bike counts and submit the count information to SABA’s database lead. This app worked well for years, but sadly is in an inoperable state at this time. Bill came to us as well and was able to provide all of the logic specs for the app, which is a huge step in working on a mobile app for SABA.&lt;/p&gt;
+
+&lt;p&gt;To give a basic outline, SABA needs a count app that will note the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Where a cyclist comes in and leaves an intersection&lt;/li&gt;
+  &lt;li&gt;The cyclist’s gender (an important data point for demographic studies around cycling)&lt;/li&gt;
+  &lt;li&gt;Whether the cyclists is on the sidewalk or the street.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This data collection goes a long way in informing policymakers as to how to design streets to be better designed for multiple modes of transit. For example, if an intersection is noted with many cyclists biking on the sidewalk, that could be an indication that cyclists do not feel safe biking in the streets. Additionally, Jim mentioned that there has been a decrease in proportion of women cyclists, which has been supported by bike count figures across the nation.&lt;/p&gt;
+
+&lt;p&gt;Code 4 Sac is in the technical planning phases at this point in the project and we hope to produce a solution that will not only be easy for volunteers to use, but will also make the bike count process much more efficient. While this project is being built with SABA in mind, it is highly applicable to many of the other bicycling and pedestrian advocacy groups around the country. We need folks to help out in the following areas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;App development&lt;/strong&gt;: Developers can find discussions and selection of technical stack in the &lt;a href=&quot;https://github.com/code4sac/bikecounter&quot;&gt;repo&lt;/a&gt;. Check out our issues and help add features!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Design&lt;/strong&gt;: Web design skills are needed to make the app both look good, but also be usable.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Marketing&lt;/strong&gt;: Help us contact other pedestrian and cycling organizations to see if they would be interested in using our counts system!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Look to our &lt;a href=&quot;https://github.com/code4sac/bikecounter&quot;&gt;github repository&lt;/a&gt; for more information on where we are with bikecounter!&lt;/p&gt;
+</description>
+      <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
+      <link>https://opensavannah.org/saba-bike-counts-app/</link>
+      <guid isPermaLink="true">https://opensavannah.org/saba-bike-counts-app/</guid>
+      
+      
+      <category>blog</category>
+      
+    </item>
+    
+    <item>
+      <title>Unlocking Value in Health by Freeing the Data</title>
+      <description>&lt;p&gt;The California Health and Human Services (CHHS) Agency has taken the forward-thinking step of releasing a number of datasets on its &lt;a href=&quot;https://chhs.data.ca.gov/&quot;&gt;Open Data Portal&lt;/a&gt;. As of this writing, the portal contains 73 datasets, along with 43 associated charts and 14 maps, for over 100 pieces of interesting health care information available to Californians. The data released so far includes information on population health indicators, health care facility performance, the availability of healthcare in communities, environmental chemicals, social indicators, and societal behaviors. And much more is coming, with encouragement from the &lt;a href=&quot;http://www.chcf.org/freethedata&quot;&gt;California HealthCare Foundation’s Free the Data Initiative&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This undertaking represents hundreds of hours of concerted effort by a diverse team within the Agency and its Departments. Given the undeniable expense of all this work, it’s reasonable to ask: is it worth it? What value is added by taking this public data from its various existing documents — PDFs, Excel files, and the like, some of which are already sitting on one website or another — and putting them in a single format in a single searchable location?&lt;/p&gt;
+
+&lt;p&gt;Well, the McKinsey Global Institute contends in its report &lt;a href=&quot;http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information&quot;&gt;&lt;em&gt;Open Data: Unlocking Innovation and Performance with Liquid Information&lt;/em&gt;&lt;/a&gt; that publishing open data can unlock $3 to $5 trillion in global economic value annually across seven domains, including education, transportation, consumer products, electricity, oil and gas, health care, and consumer finance. They estimate $300 to $450 billion of value annually from opening health care data alone. And the majority of this value accrues to consumers, in their estimation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How does this value get unlocked specifically?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One great example is provided by the UK National Health Services (NHS), which publishes MRSA infection rates in UK hospitals on the &lt;a href=&quot;http://data.gov.uk/&quot;&gt;UK’s open data portal&lt;/a&gt;. Publishing this data, along with tables that rank hospitals by their MRSA infection rates, has led to an open exchange of best practices among hospitals. This in turn has &lt;a href=&quot;https://www.capgemini-consulting.com/resource-file-access/resource/pdf/opendata_pov_6feb.pdf&quot;&gt;reduced total MRSA infections from about 5,000 to fewer than 1,200 annually&lt;/a&gt;. Never mind that the open data initiative contributed to government savings of £34 million; the increased well-being of British hospital patients is a huge economic value accruing primarily to UK citizens. Incidentally, California’s MRSA infection data is available &lt;a href=&quot;https://chhs.data.ca.gov/browse?q=mrsa&quot;&gt;right here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In another example out of the UK, a startup company used open prescription data from NHS to analyze prescription patterns for a class of drugs called statins, which are used to prevent cardiovascular problems. Current evidence suggests that, for most patients, all classes of these drugs are equally effective, so the primary distinguishing characteristic among the available drugs is their price. Yet after 8 weeks of analysis, the company discovered that the &lt;a href=&quot;http://theodi.org/news/prescription-savings-worth-millions-identified-odi-incubated-company&quot;&gt;NHS was spending an additional £27 million per month due to doctors prescribing the proprietary versions of the drugs&lt;/a&gt;. While the company is clear that it cannot state for certain that all of this additional expenditure was unnecessary, the &lt;a href=&quot;http://www.prescribinganalytics.com/&quot;&gt;map of prescription rates&lt;/a&gt; the company produced suggests geographic patterns in prescription of proprietary statins. Further investigation by NHS may reveal changes in common practice in certain areas of the country that can result in cost savings.&lt;/p&gt;
+
+&lt;p&gt;Where else could value be unlocked by the CHHS data? Imagine how Californians could benefit from analysis of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdph.data.ca.gov/Demographics/Infant-Mortality-by-Race-Ethnicity-2004-2013/r9ma-bmym&quot;&gt;Infant Mortality Rates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chhs.data.ca.gov/browse?q=surgical%20site%20infection&amp;amp;sortBy=relevance&amp;amp;utf8=%5F&quot;&gt;Surgical-Site Infections&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdph.data.ca.gov/Environmental/Chemicals-in-Cosmetics/emt8-tzcf&quot;&gt;Chemicals in Cosmetics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chhs.data.ca.gov/Facilities-and-Services/Hospital-Profitability-2009-2013/chmy-sb7k&quot;&gt;Hospital Profitability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chhs.data.ca.gov/browse?sortBy=relevance&amp;amp;utf8=%5F&amp;amp;q=seismic%20ratings&quot;&gt;Hospital Seismic Ratings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These and literally a hundred other possibilities are just waiting on the CHHS Open Data Portal. We’re working in &lt;a href=&quot;https://medium.com/@CAHealthData/meet-the-california-health-data-ambassadors-ba960095b3f6&quot;&gt;CHCF’s Health Data Pilot Project&lt;/a&gt; to identify some of those possibilities in Sacramento and unlock their value for all Californians. Want to join us? Drop us a line at health [at] codeoforsacramento [dot] org and let’s talk!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Join us June 6-7, 2015 for our &lt;a href=&quot;http://www.health2con.com/devchallenge/helping-consumers-and-policymakers-marshal-the-state-of-californias-health-data-code-a-thon/&quot;&gt;National Day of Civic Hacking: Health 2.0 Developer Challenge&lt;/a&gt; with $20k in prizes. It promises to be an exciting weekend of using open data and civic technology to improve the health of Californians.&lt;/em&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      <link>https://opensavannah.org/unlocking-value-by-freeing-the-data/</link>
+      <guid isPermaLink="true">https://opensavannah.org/unlocking-value-by-freeing-the-data/</guid>
+      
+      
+      <category>blog</category>
+      
+    </item>
+    
+    <item>
+      <title>Roll Call</title>
+      <description>&lt;p&gt;#roll call for weekly meetup 2015-03-18&lt;/p&gt;
+
+&lt;p&gt;Jesse Rosato&lt;/p&gt;
+
+&lt;p&gt;Joseph Lei&lt;/p&gt;
+
+&lt;p&gt;Enrique Zavala&lt;/p&gt;
+
+&lt;p&gt;Joel Riphagen&lt;/p&gt;
+
+&lt;p&gt;Donny Brower&lt;/p&gt;
+
+&lt;p&gt;Jordan Carlile&lt;/p&gt;
+
+&lt;p&gt;Joseph Ismailyan&lt;/p&gt;
+
+&lt;p&gt;Ryan Morris&lt;/p&gt;
+
+&lt;p&gt;Shane Singh&lt;/p&gt;
+
+&lt;p&gt;Vadzim Savenok&lt;/p&gt;
+
+&lt;p&gt;Kristopher Tadlock&lt;/p&gt;
+
+&lt;p&gt;Kelvin Amoako&lt;/p&gt;
+
+&lt;p&gt;John Ellis&lt;/p&gt;
+
+&lt;p&gt;Huy Le&lt;/p&gt;
+
+&lt;p&gt;Anthony Nguyen&lt;/p&gt;
+
+&lt;p&gt;Diane Northern&lt;/p&gt;
+
+&lt;p&gt;Brandon Pugh&lt;/p&gt;
+</description>
+      <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
+      <link>https://opensavannah.org/2015/03/18/roll-call.html</link>
+      <guid isPermaLink="true">https://opensavannah.org/2015/03/18/roll-call.html</guid>
+      
+      
+    </item>
+    
+    <item>
+      <title>Jekylling Jekyll with Jekyll</title>
+      <description>&lt;p&gt;Code for Sacramento is a couple weeks into using our new Jekyll based website and we figured it’d be an awesome way to introduce members to contributing to open source projects and working with code! Here are a few reasons you should contribute or learn to contribute to the Code For Sacramento website:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It likely needs the help!&lt;/li&gt;
+  &lt;li&gt;It’ll teach you a new skill (git, HTML, css, jekyll, linux)&lt;/li&gt;
+  &lt;li&gt;You’ll make your github profile happy!&lt;/li&gt;
+  &lt;li&gt;It’s the only way you’ll get published on our website!&lt;/li&gt;
+  &lt;li&gt;If you don’t, &lt;em&gt;I&lt;/em&gt; will have to be a designer and the last site I designed was on Geocities (and boy it was slick!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Okay, so now that you’ve been convinced, let’s move on to the &lt;strong&gt;how&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;If, at any time, these instructions don’t work for you or you’re stuck, feel free to &lt;a href=&quot;/contact&quot;&gt;contact us&lt;/a&gt; and we will help!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-setup&quot;&gt;The Setup&lt;/h2&gt;
+
+&lt;h3 id=&quot;os-x&quot;&gt;OS X&lt;/h3&gt;
+
+&lt;p&gt;On OS X, this should be as simple as running &lt;code class=&quot;highlighter-rouge&quot;&gt;gem install bundler&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;linux&quot;&gt;Linux&lt;/h3&gt;
+
+&lt;p&gt;On Linux, there’s a few depencies to install, but then you’ll ultimately be up and running. To install the dependencies, run &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt-get install git ruby ruby-dev build-essential nodejs bundler&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;working-with-jekyll&quot;&gt;Working with Jekyll&lt;/h2&gt;
+
+&lt;h3 id=&quot;lets-fork&quot;&gt;Let’s Fork!&lt;/h3&gt;
+
+&lt;p&gt;So, before we even get to hacking Jekyll, we need to get the website’s code! While you could just clone the website by running &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone https://github.com/code4sac/codeforsacramento.org.git&lt;/code&gt; and getting to work on the code, we would suggest forking your own copy of the website to work on. You do this by going to &lt;a href=&quot;https://github.com/code4sac/codeforsacramento.org&quot;&gt;our repo&lt;/a&gt;, clicking the ‘Fork’ button and then cloning from the link given to you on the right side under ‘HTTPS clone URL’.&lt;/p&gt;
+
+&lt;p&gt;Github has documentation on &lt;a href=&quot;https://help.github.com/articles/fork-a-repo/&quot;&gt;Forking repositories&lt;/a&gt; for further information.&lt;/p&gt;
+
+&lt;h3 id=&quot;serving-jekyll&quot;&gt;Serving Jekyll&lt;/h3&gt;
+
+&lt;p&gt;Now that we have the code, we can move into the directory and install the Jekyll environment to begin work! Installing the gems should be a matter of running &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; from within the codeforsacramento.org directory. We can test our Jekyll install by running &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;. If all goes well, this will start a server on port 4000, letting you go to a browser and inserting &lt;code class=&quot;highlighter-rouge&quot;&gt;localhost:4000&lt;/code&gt; in the URL field. If you can see the code4sac website with the URL localhost:4000 , then you’re in business!&lt;/p&gt;
+
+&lt;p&gt;That &lt;code class=&quot;highlighter-rouge&quot;&gt;--watch&lt;/code&gt; command is nifty, in that it allows you to edit files and Jekyll will recognize that they changed and instantly update them. So, while &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt; is running in one window, open up a text editor (or another command line) and edit a file on our site (maybe &lt;code class=&quot;highlighter-rouge&quot;&gt;/_layouts/home.html&lt;/code&gt; to say &lt;em&gt;Code For Midtown&lt;/em&gt; instead of &lt;em&gt;Code for Sacramento&lt;/em&gt;). When you go back to the site and refresh, your changes will be apparent.&lt;/p&gt;
+
+&lt;p&gt;Just like that, you’ve started contributing to our site. Edit the CSS to make design changes, add a page or post that you think matters, or &lt;a href=&quot;https://github.com/code4sac/codeforsacramento.org/issues&quot;&gt;help solve some of our Github issues&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;submit-a-pull-request&quot;&gt;Submit a Pull Request&lt;/h3&gt;
+
+&lt;p&gt;You’ve done some contributions, you’re happy with your work. You’ve ran the commands &lt;code class=&quot;highlighter-rouge&quot;&gt;git add&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;git push origin gh-pages&lt;/code&gt;, now what? Why isn’t it on the live site?! Well, likely you don’t have access to post directly to the live website, so you have to &lt;strong&gt;submit a pull request&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Once pushed to your forked repo, you will be shown a green button next to the ‘Branch’ button. Click this and it will compare your code with the forked code (the actual hosted website) and from here, you can &lt;a href=&quot;https://help.github.com/articles/using-pull-requests/&quot;&gt;submit a pull request&lt;/a&gt; telling us what you’ve changed and why we need to include your post about the Official Code4Sac lolcats app! After that, it’s up to the admin team to merge your code into the site! You’ve just given back to
+us!&lt;/p&gt;
+
+&lt;h2 id=&quot;you-rock&quot;&gt;You Rock!&lt;/h2&gt;
+
+&lt;p&gt;If you’ve made it through all of this, way to go! If you’re a developer, get to work as there’s a lot to do out there! If you don’t consider yourself a developer, this is great insight into working with code and it can break down some of the barriers to how to use version control and how to contribute to open source.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://opensavannah.org/jekylling-jekyll-02-04-2015/</link>
+      <guid isPermaLink="true">https://opensavannah.org/jekylling-jekyll-02-04-2015/</guid>
+      
+      <category>learning</category>
+      
+      
+      <category>learning</category>
+      
+      <category>blog</category>
+      
+    </item>
+    
+    <item>
+      <title>Webscraping with R</title>
+      <description>&lt;p&gt;At the last meetup, Adam Kalsey gave a great presentation on scraping data from the web, illustrating the ideas with his beer-loving Twitterbot &lt;a href=&quot;http://twitter.com/sactaps&quot;&gt;@sactaps&lt;/a&gt;. In this tutorial, I will show you how to scrape data from the web in R using the &lt;code class=&quot;highlighter-rouge&quot;&gt;rvest&lt;/code&gt; package &lt;a href=&quot;http://github.com/hadley/rvest&quot;&gt;Github link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Warning: This tutorial involves browsing to websites advertising the sale of beer. If you are not of legal drinking age, please try this tutorial with other age-appropriate websites. Thanks!)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;installing-rvest-and-selectorgadget&quot;&gt;Installing &lt;code class=&quot;highlighter-rouge&quot;&gt;rvest&lt;/code&gt; and SelectorGadget&lt;/h3&gt;
+
+&lt;p&gt;If you haven’t used R before, go ahead and download the R runtime and the RStudio Integrated Development Environment. We won’t cover the basics of using RStudio, but there are plenty of resources for getting started. All of the code below can be entered directly in the console, or in the text editor (and then executed using Cmd/Ctrl-Enter).&lt;/p&gt;
+
+&lt;p&gt;Currently, &lt;code class=&quot;highlighter-rouge&quot;&gt;rvest&lt;/code&gt; is not available on CRAN, the official repository of R packages. You will need to download the source code directly from the GitHub repository.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# if you do not have it already, install the devtools package
+install.packages(&quot;devtools&quot;)
+devtools::install_github(&quot;hadley/rvest&quot;)
+library(rvest)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Another helpful tool you will want to install is the &lt;a href=&quot;http://selectorgadget.com/&quot;&gt;SelectorGadget&lt;/a&gt; Chrome extension, which makes it a lot easier to get the CSS selectors for webpage elements (compared to using “Inspect Element” and looking at the source code).&lt;/p&gt;
+
+&lt;h3 id=&quot;finding-the-right-css-selectors&quot;&gt;Finding the right CSS selectors&lt;/h3&gt;
+
+&lt;p&gt;Although Adam’s talk focused on using the XPath and YQL query languages, in many cases we can locate useful data based on their CSS selectors, especially when the webpage uses semantic tag attributes.&lt;/p&gt;
+
+&lt;p&gt;Our first stop on our cyber pub crawl is to the Capitol Tap Room (&lt;a href=&quot;http://capitolbeer.com/on-tap/&quot;&gt;link&lt;/a&gt;). Here’s a screenshot of the tap list:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/screenshots/capitol_taproom.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have SelectorGadget installed, click the magnifying glass to the right of the Address Bar, where your other Chrome extensions might be. With the extension activated, when you hover different elements on the webpage, they will be highlighted. Try clicking different things to see what happens. Make note of the gray bar on the bottom right.&lt;/p&gt;
+
+&lt;p&gt;Now, very carefully, hover your mouse around the bottom of the tap list until the entire box is highlighted:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/screenshots/capitol_taplist_div.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the gray bar, you will see it read &lt;code class=&quot;highlighter-rouge&quot;&gt;#on-tap&lt;/code&gt;. What this is telling us is that the highlighted object is an HTML element (probably a &lt;code class=&quot;highlighter-rouge&quot;&gt;div&lt;/code&gt;) with &lt;code class=&quot;highlighter-rouge&quot;&gt;id=&quot;on-tap&quot;&lt;/code&gt;. Now, if we were to try scraping this, we would get all of the HTML for the &lt;code class=&quot;highlighter-rouge&quot;&gt;div&lt;/code&gt;. Preferably, we would like to get the different beers separated out. So let’s see if we can narrow things down to the individual beer names.&lt;/p&gt;
+
+&lt;p&gt;Press the “Clear” button on the gray bottom to clear your selection. Now, try hovering over the beer names until it highlights the smallest box around the text:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/screenshots/capitol_beername.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I couldn’t capture it on the screenshot, but SelectorGadget is telling me that the beer names are &lt;code class=&quot;highlighter-rouge&quot;&gt;h3&lt;/code&gt; elements (which also has a &lt;code class=&quot;highlighter-rouge&quot;&gt;.left&lt;/code&gt; class). (This isn’t very semantic at all!) And simply selecting &lt;code class=&quot;highlighter-rouge&quot;&gt;h3&lt;/code&gt;s won’t be precise enought: there are over 100 &lt;code class=&quot;highlighter-rouge&quot;&gt;h3&lt;/code&gt; elements on this page, and not all of them are the beers on tap. But because we know these are encased in the &lt;code class=&quot;highlighter-rouge&quot;&gt;div#on-tap&lt;/code&gt; element, we can manually target these. Clear the query in the gray box and enter: &lt;code class=&quot;highlighter-rouge&quot;&gt;div#on-tap h3&lt;/code&gt;. Now all of the beer names in the “On Tap” section will be highlighted. As an exercise, trying writing a similar query that will grab the names of the bottles for sale (below the tap list).&lt;/p&gt;
+
+&lt;h3 id=&quot;grabbing-the-data-in-r&quot;&gt;Grabbing the data in R&lt;/h3&gt;
+
+&lt;p&gt;Now that we have some idea of what we should be querying off the webpage, let’s go into R. Enter these commands in the console:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;page &amp;lt;- rvest::html(&quot;http://capitolbeer.com/on-tap/&quot;)
+beers_html &amp;lt;- rvest::html_nodes(x = page, css = &quot;div#on-tap h3&quot;)
+head(beers_html) # prints the html to the console
+rvest::html_text(beers_html, trim = TRUE) # gets the text inside the tags and cleans up the whitespace characters
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Here’s what you should see after the last command:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[1] &quot;Two Rivers Huckleberry Cider&quot;                      &quot;Evil Twin Freudian Slip Barleywine&quot;
+[3] &quot;Bike Dog Mosaic Pale Ale&quot;                          &quot;Wildcard 2nd Anniversary BBA Porter&quot;
+[5] &quot;Mraz Winter  IPA&quot;                                  &quot;Wildcard Liar’s Dice IPA&quot;
+[7] &quot;Avery duganA Double IPA&quot;                           &quot;Warped Clear The Flag Rye Persimmon Ale&quot;
+[9] &quot;Wildcard Reason For The Season Coffee Cream Stout&quot; &quot;Dogfish Head Beer Thousand Imperial Pilsner&quot;
+[11] &quot;Wildcard Grade A Maple Brown&quot;                      &quot;Stillwater As Follows Golden Strong&quot;
+[13] &quot;Wildcard 530 Hometown Ale&quot;                         &quot;Oskar Blues Icey PA Wheat Pale Ale&quot;
+[15] &quot;Eel River Acai Berry Wheat&quot;                        &quot;St. Bernardus ABT 12 Quad&quot;
+[17] &quot;Duchesse de Bourgogne Flemish Red&quot;                 &quot;Six Rivers Raspberry Lambic&quot;
+[19] &quot;Woodfour Berliner Weisse&quot;                          &quot;Berryessa Rye Ryerish Dry Stout (Nitro)&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Very cool. The &lt;code class=&quot;highlighter-rouge&quot;&gt;rvest&lt;/code&gt; functions also allow querying using XPath syntax, which was what Adam was covering. Scraping the data would then be the first step for doing interesting things with the data in R or some other programming language.&lt;/p&gt;
+
+&lt;p&gt;Give it a try with Capitol Tap Room’s site (extra credit for trying other beer websites) and drop by at our weekly meetings if you have cool webscraping ideas you want to work on!&lt;/p&gt;
+</description>
+      <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://opensavannah.org/blog/tutorial/2015/01/31/webscraping-with-r.html</link>
+      <guid isPermaLink="true">https://opensavannah.org/blog/tutorial/2015/01/31/webscraping-with-r.html</guid>
+      
+      
+      <category>blog</category>
+      
+      <category>tutorial</category>
+      
+    </item>
+    
   </channel>
 </rss>
