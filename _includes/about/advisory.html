@@ -1,0 +1,23 @@
+<div class="row">
+  <div class="col-md-12">
+    <h3>Advisory Board</h3>
+    <p class="lead">A volunteer advisory board of civic leaders help provide strategic and technical advice to Open Savannah members when needed, reporting directly to the Senior Leadership Team on a quarterly basis. While possessing no direct say on organizational direction or affairs, Open Savannah's advisory board is challenged to help provide guidance on vision and scope of our emerging organization, strategic initiatives, funding models, and the continuation of the advisory board for 2018.</p>
+   {% for advisor in site.data.advisory_board %}
+<div class="row cushion-bottom">
+  <div class="col-xs-4 text-center">
+    <img class="img-responsive img-circle" src="/images/headshots/{{ advisor.headshot }}">
+    <h4>{{ advisor.name }}</h4>
+    <h5>{{ advisor.title }}</h5>
+    <ul class="list-unstyled horizontal-icons text-center">
+      <li><a href="mailto:{{ advisor.email }}?subject=Open%20Savannah"><i class="fas fa-envelope"></i></a></li>
+      <li><a href="https://twitter.com/{{ advisor.twitter }}"><i class="fab fa-twitter" target="_blank"></i></a></li>
+      <li><a href="https://github.com/{{ advisor.github }}"><i class="fab fa-github" target="_blank"></i></a></li>
+      <li><a href="{{ advisor.linkedin }}"><i class="fab fa-linkedin" target="_blank"></i></a></li>
+    </ul>
+  </div>
+  <div class="col-xs-8">
+    <p>{{ advisor.bio }}</p>
+  </div>
+</div>
+{% endfor %}
+</div>

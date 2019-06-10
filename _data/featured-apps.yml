@@ -1,0 +1,12 @@
+- name: Click that Hood
+  description: A game that tests your ability to identify Savannah neighborhoods under the clock.
+  image: savbook.png
+  url: http://test-your-savannah-knowledge.com
+- name: Open Budget Savannah
+  description: Data visualization dashboard for City FY '17 Budget.
+  image: openbudgetsav.png
+  url: http://openbudgetsav.org/
+- name: SavMaps.io
+  description: A filterable, searchable interactive map of social services that allows residents to locate the nearest services to their current location.
+  image: savmapsio.png
+  url: http://savmaps.io
