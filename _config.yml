@@ -1,9 +1,9 @@
 # Site settings
-title: Open Savannah
+title: OpenSavannah
 email: yall@opensavannah.org
 description: We are a local brigade of Code for America committed to making government work better in Greater Savannah.
 url: "https://opensavannah.org"
-twitter_username: open_savannah
+twitter_username: opensavannah
 github_username:  opensavannah
 paginate: 5
 paginate_path: "blog/page:num/"
