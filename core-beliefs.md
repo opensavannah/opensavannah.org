@@ -2,11 +2,14 @@
 title: Our Organizational Patterns
 layout: default
 permalink: /core-beliefs/
+published: true
 ---
 
 *At Open Savannah, we have a guiding set of beliefs – what we refer to as 'patterns' – that inform our thinking and guide our decision-making. Each pattern is short, general in application, and applies to almost all aspects of what we do.*
 
-1. **Local government is (can be) what we do together.** Government can and should represent and serve the people in our communities, but it will only do that if we get involved and make it relevant to our communities’ needs.
+1. **Local government is (can be) what we do together.** Government can and should represent and serve the people in our communities, but it will only do that if we get involved and make it relevant to our communities’ needs. It's up to us to make government work in the digital age in Chatham County.
+2. **Residents should be at the center of decision-making processes that will impact their lives. 
+3. **We believe that local knowledge is the most important type of knowledge when building for local purposes.** Excel can do the math. No code is needed to start a project. Sometimes, the missing ingredient is locality knowledge. So, we value the knowledge of residents above all else.
 2. **Change starts at the local level.** Starting with Savannah and Chatham County lets us connect directly with users and allows us to impact people’s lives faster.&nbsp;
 3. **We envision local government as transcending municipal borders**. The City of Savannah and Chatham County exist as interconnected, interdependent and mutually symbiotic places whose borders lead to tribalism, infighting and inefficiency. To us, 'Savannah' doesn't just refer to the area within the city limits; it refers to the broader sense of place with which all 540,000 Coastal Georgians identify as a region. Likewise, we think that unity, collaboration, and intergovernmental collaboration are necessary for the future of Savannah.
 4. **We don't blame people for a problem. We blame the problem for the problem.**. It's easy to blame our elected leaders and public servants when things go wrong. But rarely do we take into account the complex system of municipal government under which they operate. The problem is not the people in charge (*usually*); rather, it's a rigid and outdated system of top-down, hierarchical vertical silos that apply 20th century thinking to the governance of a 21st-century society.
@@ -33,6 +36,7 @@ permalink: /core-beliefs/
 25. **We do the hard work to make it simple.** The easier to use a piece of civic infrastructure is, the more accessible it is the greatest numbber of people. But making something simple isn't simple. It takes extra work and an attention to human needs to make things simple and effective. 
 26. **We help local government work for the people who need it most** – We focus on improving services for the most vulnerable in our society and in restoring civic trust in an era of record cynicism.
 27. **We acknowledge and seek to eliminate exclusionary behaviors, norms, and practices.** It's easy to say we aim to be 'inclusive,' but being inclusive is less a thing itself than it is the absence of exclusion. We must acknowledge our own exclusionary tendencies and course-correct them whenever possible.
+28. **We're building a movement."** The sort of fundamentally redesigned system of participatory democracy we seek can't be solved in a day, a week, or a year. It can take a decade or more of work to change mindsets at scale.
 
 <h3>No one is coming . . . it's up to us.</h3>
 <h1>We are Open Savannah.</h1>
