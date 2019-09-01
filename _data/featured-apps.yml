@@ -1,7 +1,7 @@
-- name: Click that Hood
-  description: A game that tests your ability to identify Savannah neighborhoods under the clock.
+- name: Savannah Budget Party
+  description: A simulation of balancing the city's budget based on the actual 2018 proposed budget,
   image: savbook.png
-  url: http://test-your-savannah-knowledge.com
+  url: http://savavnnahbudget.party
 - name: Open Budget Savannah
   description: Data visualization dashboard for City FY '17 Budget.
   image: openbudgetsav.png
